@@ -1,0 +1,31 @@
+.school h1{
+    color: midnightblue;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;   
+    font-size: 50px;
+}
+
+.title h1{
+    color: gold;
+    text-align: center;
+    font-family: Verdana;
+    font-style: italic;
+}
+
+.majors-container {
+    background: rgb(140, 245, 205);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-flow: wrap;
+    padding: 10px;
+
+
+}
+
+.majors-item {
+    background-color: aliceblue;
+    color: darkmagenta;
+    margin: 5px;
+    border: 2px solid darkgoldenrod;
+}

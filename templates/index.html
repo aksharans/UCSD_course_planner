@@ -1,0 +1,33 @@
+{% extends 'template.html' %}
+
+{% block head %}
+    <title>CE Course Planner</title>
+{% endblock %}
+
+{% block body %}
+
+    <div class="w3-container w3-blue-grey">    
+        <div class="school">
+            <h1>UCSD</h1>
+        </div>
+            <div class="title">
+            <h1>Course Planner for 
+                <br> Jacobs School of Engineering</h1>
+        </div>
+      
+    </div>
+
+
+    <div class="majors-container">
+               
+                {% for major in majors %}  
+                <div class="majors-item w3-card w3-hover-shadow w3-padding-small">
+                <h2 class="w3-padding-small">{{ major }}</h2>  
+                    <!--class="w3-hover-shadow w3-card w3-padding-small"-->
+                </div> 
+                {% endfor %}
+    
+    </div>
+
+
+{% endblock %}

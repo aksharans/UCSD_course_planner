@@ -1,0 +1,84 @@
+Code,Name,Prerequisites
+CSE 3, Fluency in Information Technology (4),none. 
+CSE 4GS, Mathematical Beauty in Rome (4),"MATH 10A or MATH 20A; departmental approval, and corequisite of CSE 6GS."
+CSE 6GS, Mathematical Beauty in Rome Lab (4),"MATH 10A or MATH 20A; departmental approval, and corequisite of CSE 4GS."
+CSE 5A, Introduction to Programming I (4),restricted to undergraduates. Graduate students will be allowed as space permits. 
+CSE 8A, Introduction to Computer Science: Java I (4),restricted to undergraduates. Graduate students will be allowed as space permits.
+CSE 8B, Introduction to Computer Science: Java II (4),CSE 8A; restricted to undergraduates. Graduate students will be allowed as space permits. 
+CSE 11, Introduction to Computer Science and Object-Oriented Programming: Java (4),restricted to undergraduates. Graduate students will be allowed as space permits. 
+CSE 12, Basic Data Structures and Object-Oriented Design (4),"CSE 8B or CSE 11, and concurrent enrollment with CSE 15L; restricted to undergraduates. Graduate students will be allowed as space permits. "
+CSE 15L, Software Tools and Techniques Laboratory (2),"CSE 8B or CSE 11, and concurrent enrollment with CSE 12; restricted to undergraduates. Graduate students will be allowed as space permits. "
+CSE 20, Discrete Mathematics (4),COGS 7 or CSE 8B or CSE 11. Prerequisite courses must have been completed with a grade of C– or better; restricted to undergraduates. Graduate students will be allowed as space permits.
+CSE 21, Mathematics for Algorithms and Systems (4),CSE 20 or MATH 15A; restricted to undergraduates. Graduate students will be allowed as space permits. 
+CSE 30, Computer Organization and Systems Programming (4),CSE 12 and CSE 15L; restricted to undergraduates. Graduate students will be allowed as space permits.
+CSE 42, Building and Programming Electronic Devices (2) ,restricted to first-year and sophomore students; instructor approval required. 
+CSE 80, UNIX Lab (2),CSE 8B or CSE 11. 
+CSE 86, C++ for Java Programmers (2),CSE 12 or consent of instructor. 
+CSE 87, First-year Student Seminar (1),none. 
+CSE 90, Undergraduate Seminar (1),none.
+CSE 91, Perspectives in Computer Science and Engineering (2),majors only. 
+CSE 99, Independent Study in Computer Science and Engineering (4),lower-division standing. Completion of thirty units at UC San Diego with a UC San Diego GPA of 3.0. Special Studies form required. Department stamp required. Consent of instructor and approval of the department. 
+CSE 100, Advanced Data Structures (4),CSE 12 and CSE 15L and CSE 21 or MATH 154 or MATH 184A and CSE 5A or CSE 30 or ECE 15 or MAE 9; restricted to undergraduates. Graduate students will be allowed as space permits.
+CSE 101, Design and Analysis of Algorithms (4),CSE 100 or MATH 176; restricted to undergraduates. Graduate students will be allowed as space permits. 
+CSE 103, A Practical Introduction to Probability and Statistics (4),"MATH 20A-B and MATH 184A or CSE 21 or MATH 154; restricted to CS25, CS26, CS27, and CS28 majors. Other students will be allowed as space permits. "
+CSE 105, Theory of Computability (4),"CSE 12 and CSE 15L and MATH 15A or MATH 109 or CSE 20 and MATH 184 or CSE 21 or MATH 100A or MATH 103A; restricted to students with sophomore, junior, or senior standing. Graduate students will be allowed as space permits. "
+CSE 106, Discrete and Continuous Optimization (4),MATH 18 or MATH 31AH and MATH 20C or MATH 31BH and CSE 21 or DSC 40B or MATH 154 or MATH 184A.
+CSE 107, Introduction to Modern Cryptography (4),"(MATH 184 or CSE 21 or MATH 154) and CSE 101 and CSE 105; restricted to students within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits.  "
+CSE 110, Software Engineering (4),"CSE 100; restricted to students with junior or senior standing within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits."
+CSE 112, Advanced Software Engineering (4),"CSE 110; restricted to students within the CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits."
+CSE 113," Errors, Defects, and Failures (4)",CSE 12 and CSE 21.
+CSE 118, Ubiquitous Computing (4),"any course from the following: CSE 131, CSE 132B, COGS 102C, COGS 121, COGS 184, COMT 111B, COMT 115, ECE 111, ECE 118, ECE 191, ECE 192, or ICAM 160B; or consent of instructor. "
+CSE 120, Principles of Computer Operating Systems (4),"CSE 30 and CSE 101 and CSE 110; restricted to students within the CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits."
+CSE 123, Computer Networks (4),"CSE 30 and CSE 101 and CSE 110; restricted to students with sophomore, junior, or senior standing within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits. "
+CSE 124, Networked Services (4),"CSE 30 and CSE 101 and CSE 110; restricted to students with sophomore, junior, or senior standing within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits. "
+CSE 125, Software System Design and Implementation (4),"senior standing with substantial programming experience, and consent of instructor. Department stamp required. "
+CSE 127, Introduction to Computer Security (4),"(CSE 21 or MATH 154 or MATH 184A) and (CSE 120 or CSE 123 or CSE 124); restricted to students with sophomore, junior, or senior standing within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits."
+CSE 130, Programming Languages: Principles and Paradigms (4),"CSE 12 and (CSE 100 or MATH 176) and (CSE 105 or MATH 166); restricted to students within the CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits."
+CSE 131, Compiler Construction (4),"CSE 100 and CSE 105 and CSE 130; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits."
+CSE 132A, Database System Principles (4),"CSE 100; restricted to students with sophomore, junior, or senior standing within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits."
+CSE 132B, Database Systems Applications (4),"CSE 132A; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits. "
+CSE 134B, Web Client Languages (4),"CSE 100; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits. "
+CSE 135, Online Database Analytics Applications (4),"CSE 100 or MATH 176; restricted to students with sophomore, junior, or senior standing within the CS25, CS26, CS27, CS28, and EC26 majors. Graduate students will be allowed as space permits. "
+CSE 136, Enterprise-Class Web Applications (4),CSE 135.
+CSE 140, Components and Design Techniques for Digital Systems (4),"(CSE 20 or MATH 15A or MATH 109) and CSE 30; CSE 140L must be taken concurrently; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits "
+CSE 140L, Digital Systems Laboratory (2),"(CSE 20 or MATH 15A or MATH 109) and CSE 30; CSE 140 must be taken concurrently; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits."
+CSE 141, Introduction to Computer Architecture (4),"CSE 30 and CSE 140 and CSE 140L; CSE 141L should be taken concurrently; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits."
+CSE 141L, Project in Computer Architecture (2),"CSE 30 and CSE 140 and CSE 140L; CSE 141 should be taken concurrently; restricted to CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits."
+CSE 143, Microelectronic System Design (4),CSE 140 or CSE 170A or ECE 81.
+CSE 145, Embedded System Design Project (4),"instructor approval required, by application only."
+CSE 148, Advanced Processor Architecture Design Project (4),"CSE 141 and CSE 141L; restricted to students with sophomore, junior, or senior standing. Graduate students will be allowed as space permits. "
+CSE 150A, Introduction to Artificial Intelligence: Probabilistic Reasoning and Decision-Making (4),"(CSE 12 or DSC 40B) and (CSE 15L or DSC 80) and (CSE 103 or ECE 109 or ECON 120A or MATH 183) and MATH 20A and (MATH 18 or MATH 31AH) ; restricted to students within the CS25, CS26, CS27, CS28, EC26, and DS25 majors. All other students will be allowed as space permits. "
+CSE 150B, Introduction to Artificial Intelligence: Search and Reasoning (4),"(CSE 12 or DSC 40B) and (CSE 15L or DSC 80) and (CSE 103 or ECE 109 or ECON 120A or MATH 183) and CSE 100; restricted to students within the CS25, CS26, CS27, CS28, EC26, and DS25 majors. All other students will be allowed as space permits. "
+CSE 151A, Introduction to Machine Learning (4),"(CSE 12 or DSC 40B) and (CSE 15L or DSC 80) and (CSE 103 or MATH 181A or ECE 109 or MATH 183 or ECON 120A) and (MATH 18 or MATH 31AH); restricted to students within the CS25, CS26, CS27, CS28, EC26, and DS25 majors. All other students will be allowed as space permits. ."
+CSE 151B, Deep Learning (4),"(MATH 31BH or MATH 20C) and (ECON 120A or ECE 109 or CSE 103 or MATH 181A or MATH 183); restricted to students with sophomore, junior, or senior standing within the CS25, CS26, CS27, CS28, EC26, and DS25 majors. All other students will be allowed as space permits."
+CSE 152, Introduction to Computer Vision (4),"MATH 18 or MATH 20F or MATH 31AH and CSE 100 or DSC 40B or MATH 176 and CSE 101 or DSC 80 or MATH 188; restricted to students with sophomore, junior, or senior standing within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits."
+CSE 152A, Introduction to Computer Vision I (4),"(MATH 18 or MATH 31AH) and (CSE 12 or DSC 30) and (CSE 15L or DSC 80); Python programming experience recommended; restricted to students within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits."
+CSE 152B, Introduction to Computer Vision II (4),"CSE 152A or CSE 152; Python programming experience recommended; restricted to students within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits."
+CSE 156, Statistical Natural Language Processing (4),"MATH 20C or MATH 31BH and MATH 18 or MATH 31AH and COGS 118A or CSE 150 or CSE 151; restricted to students with sophomore, junior, or senior standing within the CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as space permits."
+CSE 158, Recommender Systems and Web Mining (4),"(CSE 12 or DSC 40B) and (CSE 15L or DSC 80) and (CSE 103 or ECE 109 or MATH 181A or ECON 120A or MATH 183); restricted to CS25, CS26, CS27, CS28, EC26, and DS25 majors. All other students will be allowed as space permits. "
+CSE 160, Introduction to Parallel Computing (4),"CSE 100 or MATH 176; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits"
+CSE 163, Advanced Computer Graphics (4) ,"CSE 167; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits."
+CSE 164, GPU Programming (4),CSE 167.  
+CSE 165, 3-D User Interaction (4),"CSE 167; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits. "
+CSE 166, Image Processing (4),"(DSC 40B or MATH 18 or MATH 31AH or MATH 20F) and (CSE 100 or DSC 80 or MATH 176); restricted to sophomore, junior, and senior students. Graduate students allowed as space permits. "
+CSE 167, Computer Graphics (4),"CSE 100 or MATH 176; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits. "
+CSE 168, Computer Graphics II: Rendering (4),"CSE 167; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits."
+CSE 169, Computer Animation (4),"CSE 167; restricted to CS25, CS26, CS27, and EC26 majors. All other students will be allowed as space permits."
+CSE 170, Interaction Design (5),CSE 11 or CSE 8B and COGS 187A or COGS 1 or DSGN 1.
+CSE 176A, Health Care Robotics (4),"CSE 110 or CSE 170 or COGS 120; restricted to sophomore, junior, and senior students."
+CSE 176E, Robot Systems Design and Implementation (4),restricted to junior and senior students; instructor approval required.
+CSE 180, Biology Meets Computing (4) ,BILD 1.
+CSE 180R, Biology Meets Computing (4),BILD 1 or BILD 4 or CSE 3 or CSE 7 or CSE 8A or CSE 8B or CSE 11.
+CSE 181, Molecular Sequence Analysis (4),"(CSE 100 or MATH 176) and (CSE 101) and (BIMM 100 or CHEM 114C); restricted to BE28, BI34, CH37, and CS27 majors. CSE 181 is cross-listed with BIMM 181 and BENG 181. "
+CSE 182, Biological Databases (4),"CSE 100 or MATH 176; restricted to BE28, BI34, CH37, and CS27 majors."
+CSE 184, Computational Molecular Biology (4),"BIMM 181 or BENG 181 or CSE 181, BENG 182 or BIMM 182 or CSE 182 or CHEM 182. Bioinformatics majors only. "
+CSE 185, Advanced Bioinformatics Laboratory (4),CSE 11 or CSE 8B and CSE 12 and MATH 20C or MATH 31BH and BILD 1 and BIEB 123 or BILD 4 or BIMM 101 or CHEM 109.
+CSE 190, Topics in Computer Science and Engineering (4),consent of instructor. Department stamp required. 
+CSE 191, Seminar in CSE (1–4),consent of instructor. Department stamp required. 
+CSE 192, Senior Seminar in Computer Science and Engineering (1),upper-division standing; department stamp required and consent of instructor.
+CSE 193, Introduction to Computer Science Research (4),consent of the department chair. Department stamp required.
+CSE 195, Teaching (4),consent of the department chair. Department stamp required. 
+CSE 197," Field Study in Computer Science and Engineering (4, 8, 12, or 16)",consent of the instructor and approval of the department. Department stamp required. 
+CSE 198, Directed Group Study (2 or 4),consent of the instructor. Department stamp required. 
+CSE 199, Independent Study for Undergraduates (2 or 4),consent of the instructor. Department stamp required. 
+CSE 199H, CSE Honors Thesis Research for Undergraduates (4),Admission to the CSE department honors program. Consent of the instructor. Department stamp required.

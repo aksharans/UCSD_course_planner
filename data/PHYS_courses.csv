@@ -1,0 +1,73 @@
+Code,Name,Prerequisites
+PHYS 1A, Mechanics (3),"PHYS 1A or 2A, and MATH 10B or 20B. "
+PHYS 1AL, Mechanics Laboratory (2),MATH 10A-B or 20A or 20B or 20C or 31BH. Recommended preparation: prior or concurrent enrollment in MATH 20B.
+PHYS 1B, Electricity and Magnetism (3),PHYS 2A or 4A. Recommended preparation: prior or concurrent enrollment in PHYS 2B or 4C.
+PHYS 1BL, Electricity and Magnetism Laboratory (2),"PHYS 2A or 4A, and 2B or 4C. Recommended preparation: prior or concurrent enrollment in PHYS 2C or 4D."
+PHYS 1C," Waves, Optics, and Modern Physics (3)","PHYS 2A or 4A, 2B, and MATH 20D. Recommended preparation: prior or concurrent enrollment in MATH 20E."
+PHYS 1CL," Waves, Optics, and Modern Physics Laboratory (2)",PHYS 2BL or 2CL. Recommended preparation: prior or concurrent enrollment in PHYS 2D or 4E.
+PHYS 2A, Physics—Mechanics (4),MATH 20A. Recommended preparation: prior or concurrent enrollment in MATH 20B and a knowledge of vectors.
+PHYS 2B, Physics—Electricity and Magnetism (4),"PHYS 2A or 4A, and MATH 20B. Recommended preparation: prior or concurrent enrollment in MATH 20C or 31BH."
+PHYS 2BL, Physics Laboratory—Mechanics (2),"PHYS 2A or 4A, 2C or 4B, MATH 20C or 31BH, and 18 or 20F or 31AH. Recommended preparation: prior or concurrent enrollment in MATH 20E or 31CH."
+PHYS 2C," Physics—Fluids, Waves, Thermodynamics, and Optics (4)","PHYS 2A-B-C or 4A-B-C, MATH 20A, 20B, 20C or 31BH, 20E or 31CH, and 18 or 20F or 31AH. Recommended preparation: prior or concurrent enrollment in MATH 20D."
+PHYS 2CL, Physics Laboratory—Electricity and Magnetism (2),none.
+PHYS 2D, Physics—Relativity and Quantum Physics (4),none.
+PHYS 2DL, Physics Laboratory—Modern Physics (2),none.
+PHYS 4A, Physics for Physics Majors—Mechanics (4),none.
+PHYS 4B," Physics for Physics Majors—Fluids, Waves, Statistical and Thermal Physics (4)",MATH 10A or 20A. Corequisites: MATH 10B or 20B.
+PHYS 4C, Physics for Physics Majors—Electricity and Magnetism (4),none.
+PHYS 4D," Physics for Physics Majors—Electromagnetic Waves, Special Relativity and Optics (4)",none.
+PHYS 4E, Physics for Physics Majors—Quantum Physics (4),CAT 2 or DOC 2 or HUM 1 or MCWP 40 or MMW 12 or WARR 11A or WCWP 10A and CAT 3 or DOC 3 or HUM 2 or MCWP 50 or MMW 13 or WARR 11B or WCWP 10B. 
+PHYS 5, Stars and Black Holes (4),none.
+PHYS 7, Galaxies and Cosmology (4),none.
+PHYS 8, Physics of Everyday Life (4),"lower-division standing. Completion of thirty units at UC San Diego undergraduate study, a minimum UC San Diego GPA of 3.0, and a completed and approved Special Studies form. Department stamp required. "
+PHYS 9, The Solar System (4),"PHYS 2A-B-C or 4A-B-C-D; MATH 20A, 20B, 20C or 31BH, 20D, 20E or 31CH, and 18 or 20F or 31AH. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only."
+PHYS 10, Concepts in Physics (4),"PHYS 100A, MATH 20A, 20B, 20C or 31BH, 20D, 20E or 31CH, and 18 or 20F or 31AH. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only."
+PHYS 11, Survey of Physics (4),PHYS 100B. 
+PHYS 12, Energy and the Environment (4),"PHYS 2B-C-D or 4C-D-E, MATH 20A, 20B, 20C or 31BH, 20D, 20E or 31CH, and 18 or 20F or 31AH. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only. "
+PHYS 13, Life in the Universe (4),"PHYS 2A-B-C or 4A-B-C-D, MATH 20A, 20B, 20C or 31BH, 20D, 20E or 31CH, and 18 or 20F or 31AH. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only. "
+PHYS 30, Poetry for Physicists (4),"PHYS 110A, MATH 20A, 20B, 20C or 31BH, 20D, 20E or 31CH, and 18 or 20F or 31AH. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only."
+PHYS 87, First-year Student Seminar in Physics and Astrophysics (1),"PHYS 2A-B-C or 4A-B-C, MATH 20A, 20B, 20C or 31BH, 20D, and 20E or 31CH. "
+PHYS 98, Directed Group Study (2),PHYS 100B and 110B. 
+PHYS 99, Independent Study (2),"PHYS 2A-B-C or 4A-B-C, and 2CL. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only. Recommended preparation: PHYS 100A."
+PHYS 100A, Electromagnetism I (4),PHYS 120.
+PHYS 100B, Electromagnetism II (4),PHYS 120.
+PHYS 100C, Electromagnetism III (4),"PHYS 2D or 4E, 100A, 110A. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only."
+PHYS 105A, Mathematical and Computational Physics I (4),"PHYS 100B and 130A. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only."
+PHYS 105B, Mathematical and Computational Physics II (4),PHYS 130B. 
+PHYS 110A, Mechanics I (4),PHYS 2CL and 2DL. 
+PHYS 110B, Mechanics II (4),"PHYS 100A, 110A, and 130A."
+PHYS 111, Introduction to Ocean Waves (4),"PHYS 2A-B-C-D or 4A-B-C-D-E, MATH 20A, 20B, 20C or 31BH, and 18 or 20F or 31AH. "
+PHYS 116, Fluid Dynamics for Physicists (4),"PHYS 130A. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only."
+PHYS 120, Circuits and Electronics (5),"PHYS 130B and 140A. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only."
+PHYS 122, Experimental Techniques (4),upper-division standing. 
+PHYS 124, Laboratory Projects (4),upper-division standing.
+PHYS 130A, Quantum Physics I (4),MATH 20D.
+PHYS 130B, Quantum Physics II (4),PHYS 130A or CHEM 130. Corequisites: PHYS 140A. 
+PHYS 130C, Quantum Physics III (4),PHYS 152A. 
+PHYS 133, Condensed Matter/Materials Science Laboratory (4),PHYS 130B.
+PHYS 137, String Theory (4),PHYS 2A-B-C-D or 4A-B-C-D-E.
+PHYS 139, Physics Special Topics (4),PHYS 2A-B-C-D or 4A-B-C-D-E.
+PHYS 140A, Statistical and Thermal Physics I (4),PHYS 2A-B-C-D or 4A-B-C-D-E.
+PHYS 140B, Statistical and Thermal Physics II (4),PHYS 2A-B-C-D or 4A-B-C-D-E.
+PHYS 141, Computational Physics I: Probabilistic Models and Simulations (4),"PHYS 2A-B-C-D or 4A-B-C-D-E. Recommended preparation: concurrent enrollment or completion of one course from PHYS 160, 161, 162, or 163 is recommended."
+PHYS 142, Computational Physics II: PDE and Matrix Models (4),"PHYS 1B or 2B or 4C, and 1C or 2C or 4B."
+PHYS 151, Elementary Plasma Physics (4),PHYS 120 and BILD 1 and CHEM 7L. 
+PHYS 152A, Condensed Matter Physics (4),CHEM 132 or the combination of PHYS 100A and 110A. Corequisites: PHYS 140A. 
+PHYS 152B, Electronic Materials (4),PHYS 140A. Recommended preparation: an introductory course in biology is helpful but not necessary. 
+PHYS 154, Elementary Particle Physics (4),upper-division standing. Recommended preparation: an introductory course in biology is helpful but not necessary. 
+PHYS 160, Stellar Astrophysics (4),upper-division standing. Recommended preparation: a working knowledge of calculus and linear algebra. 
+PHYS 161, Black Holes (4),PHYS 2A or 4A. 
+PHYS 162, Cosmology (4),none.
+PHYS 163, Galaxies and Quasars (4),consent of instructor and departmental chair. 
+PHYS 164, Observational Astrophysics Research Lab (4),consent of instructor and departmental chair. 
+PHYS 170, Medical Instruments: Principles and Practice (4),admission to the Honors Program in Physics.
+PHYS 173, Modern Physics Laboratory: Biological and Quantum Physics (4),PHYS 200A. 
+PHYS 175, Biological Physics (4),none.
+PHYS 176, Quantitative Molecular Biology (4),none.
+PHYS 177, Physics of the Cell (4),none.
+PHYS 178, Biophysics of Neurons and Networks (4),PHYS 203A. 
+PHYS 191, Undergraduate Seminar on Physics (1),PHYS 200A-B. Corequisites: PHYS 212C. 
+PHYS 192, Senior Seminar in Physics (1) ,PHYS 210A. 
+PHYS 198, Directed Group Study (2 or 4),none.
+PHYS 199, Research for Undergraduates (2 or 4),PHYS 210A and PHYS 211A. 
+PHYS 199H, Honors Thesis Research for Undergraduates (2–4),none.

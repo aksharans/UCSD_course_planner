@@ -1,3 +1,4 @@
+/* for index.html */
 .school h1{
     color: midnightblue;
     float: left;
@@ -16,7 +17,7 @@
     background: rgb(140, 245, 205);
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-around;
     flex-flow: wrap;
     padding: 10px;
 
@@ -28,4 +29,15 @@
     color: darkmagenta;
     margin: 5px;
     border: 2px solid darkgoldenrod;
+}
+
+/* for page.html */
+.t {
+    width: 600px;
+    margin-top: 250px;
+}
+
+.table {
+    background-color: beige;
+    color: cornflowerblue;
 }

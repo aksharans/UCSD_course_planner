@@ -1,0 +1,86 @@
+Code,Name,Prerequisites
+ECE 5, Introduction to Electrical and Computer Engineering (4),"priority enrollment given to engineering majors EC04, EC26, EC27, EC28, and EC37."
+ECE 15, Engineering Computation (4),a familiarity with basic mathematics such as trigonometry functions and graphing is expected but this course assumes no prior programming knowledge. 
+ECE 16, Rapid Hardware and Software Design for Interfacing with the World (4),MAE 8 or CSE 8B or CSE 11 or ECE 15.
+ECE 17, Object-Oriented Programming: Design and Development with C++ (4),CSE 8B or CSE 11 or ECE 15.
+ECE 25, Introduction to Digital Design (4),none. 
+ECE 30, Introduction to Computer Engineering (4),ECE 15 and 25 with grades of C– or better. 
+ECE 35, Introduction to Analog Design (4),"MATH 18, 20A–B, and PHYS 2A. "
+ECE 45, Circuits and Systems (4),ECE 35. 
+ECE 65, Components and Circuits Laboratory (4),ECE 35. 
+ECE 85, iTunes 101: A Survey of Information Technology (4),none.
+ECE 87, First-year Student Seminar (1),none. 
+ECE 90, Undergraduate Seminar (1),none. 
+ECE 100, Linear Electronic Systems (4),ECE 45 and ECE 65. ECE 65 may be taken concurrently.
+ECE 101, Linear Systems Fundamentals (4),ECE 45 with grade of C– or better.
+ECE 102, Introduction to Active Circuit Design (4),ECE 65 and ECE 100. ECE 100 can be taken concurrently. 
+ECE 103, Fundamentals of Devices and Materials (4),ECE 65 and PHYS 2D or PHYS 4D and 4E. 
+ECE 107, Electromagnetism (4),PHYS 2A–C or 4A–C and ECE 45. 
+ECE 108, Digital Circuits (4)," ECE 25 or CSE 140, 45, and 65 and ECE 30 or CSE 30. "
+ECE 109, Engineering Probability and Statistics (4),"MATH 20A-B, MATH 20D, MATH 20C or MATH 31BH, and MATH 31AH or MATH 18."
+ECE 111, Advanced Digital Design Project (4),ECE 25 or CSE 140.
+ECE 115, Fast Prototyping (4),ECE 16 or consent of instructor.
+ECE 118, Computer Interfacing (4),"ECE 30 or CSE 30 and ECE 35, 45, 65. "
+ECE 120, Solar System Physics (4),"PHYS 2A–C or 4A–D, MATH 20A–B, 20C with grades of C– or better. "
+ECE 121A, Power Systems Analysis and Fundamentals (4),ECE 35.
+ECE 121B, Energy Conversion (4),ECE 121A.
+ECE 123, Antenna Systems Engineering (4),ECE 107 with a grade of C– or better.
+ECE 124, Motor Drives (4),ECE 121A.
+ECE 125A, Introduction to Power Electronics I (4),ECE 125A.
+ECE 125B, Introduction to Power Electronics II (4),upper-division standing.
+ECE 128A, Real World Power Grid Operation (4),ECE 35 and ECE 128A.
+ECE 128B, Power Grid Modernization (4),ECE 128B.
+ECE 128C, Power Grid Resiliency to Adverse Effects (4),PHYS 2C–D with grades of C– or better. 
+ECE 134, Electronic Materials Science of Integrated Circuits (4),ECE 103 with a grade of C– or better. 
+ECE 135A, Semiconductor Physics (4),ECE 135A with a grade of C– or better. 
+ECE 135B, Electronic Devices (4),ECE 135B. 
+ECE 136L, Microelectronics Laboratory (4),upper-division standing for science and engineering students. 
+ECE 138L, Microstructuring Processing Technology Laboratory (4),CSE 8B or CSE 11 or ECE 15.
+ECE 140A, The Art of Product Engineering I (4),ECE 140A.
+ECE 140B, The Art of Product Engineering II (4),CSE 30 or ECE 30.
+ECE 141A, Software Foundations I (4),ECE 141A.
+ECE 141B, Software Foundations II (4),ECE 16. 
+ECE 143, Programming for Data Analysis (4),CSE 11 or CSE 8B or ECE 15.
+ECE 144, LabVIEW Programming: Design and Applications (4),ECE 107 with a grade of C– or better or consent of instructor. 
+ECE 145AL-BL-CL, Acoustics Laboratory (4-4-4),"ECE 15 or ECE 35 or MAE 2 or MAE 3, and consent of instructor."
+ECE 148, Introduction to Autonomous Vehicles (4),students must apply to enroll in order to gauge their past experience with and interest in entrepreneurship. Consent of instructor is required.
+ECE 150, Entrepreneurship for Engineers (4),ECE 109 with a grade of C– or better. 
+ECE 153, Probability and Random Processes for Engineers (4),"ECE 101 or BENG 122A, ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 183 or MATH 186, and ECE 153."
+ECE 155, Digital Communications Theory (4),"upper-division standing and consent of instructor, or graduate student in science and engineering. "
+ECE 156, Sensor Networks (4),ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 183 or MATH 186 and ECE 161A. 
+ECE 157A, Communications Systems Laboratory I (4),ECE 154A with a grade of C+ or better. 
+ECE 157B, Communications Systems Laboratory II (4),ECE 109 with a grade of C– or better. 
+ECE 158A, Data Networks I (4),ECE 158A with a grade of C– or better. 
+ECE 158B, Data Networks II (4),ECE 153.
+ECE 159, Introduction to Data Processing and Information Theory (4),ECE 101.
+ECE 161A, Introduction to Digital Signal Processing (4),ECE 161A with a grade of C– or better. 
+ECE 161B, Digital Signal Processing I (4),ECE 161A. 
+ECE 161C, Applications of Digital Signal Processing (4),ECE 101 and 102 with grades of C– or better. 
+ECE 163, Electronic Circuits and Systems (4),ECE 102 with a grade of C– or better. ECE 163 recommended. 
+ECE 164, Analog Integrated Circuit Design (4),ECE 102. 
+ECE 165, Digital Integrated Circuit Design (4),ECE 102 and 107 with grades of C– or better. 
+ECE 166, Microwave Systems and Circuits (4),ECE 45 or MAE 140. 
+ECE 171A, Linear Control System Theory (4),ECE 171A with a grade of C– or better. 
+ECE 171B, Linear Control System Theory (4),ECE 101 with a grade of C– or better. ECE 109 recommended. 
+ECE 172A, Introduction to Intelligent Systems: Robotics and Machine Intelligence (4),MATH 18 or MATH 31AH and ECE 15. 
+ECE 174, Introduction to Linear and Nonlinear Optimization with Applications (4),ECE 109 and ECE 174.
+ECE 175A, Elements of Machine Intelligence: Pattern Recognition and Machine Learning (4),ECE 175A. 
+ECE 175B, Elements of Machine Intelligence: Probabilistic Reasoning and Graphical Models (4),consent of instructor; department stamp. 
+ECE 180, Topics in Electrical and Computer Engineering (4),ECE 103 and 107 with grades of C– or better. 
+ECE 181, Physical Optics and Fourier Optics (4),ECE 103 and 107 with grades of C– or better. 
+ECE 182," Electromagnetic Optics, Guided-Wave, and Fiber Optics (4)",ECE 103 and 107 with grades of C– or better. 
+ECE 183, Optical Electronics (4),ECE 182 with a grade of C– or better. 
+ECE 184, Optical Information Processing and Holography (4),ECE 183 with a grade of C– or better. 
+ECE 185, Lasers and Modulators (4),"MATH 20A-B-F, 20C or 21C, 20D or 21D, PHYS 2A–D, ECE 101 (may be taken concurrently) with grades of C– or better. "
+ECE 187, Introduction to Biomedical Imaging and Sensing (4),upper-division standing. 
+ECE 188, Topics in Electrical and Computer Engineering with Laboratory (4),upper-division standing. 
+ECE 189, Technical Public Speaking (2),students enrolling in this course must have completed all of the breadth courses and one depth course. The department stamp is required to enroll in ECE 190. (Specifications and enrollment forms are available in the undergraduate office.)
+ECE 190, Engineering Design (4),completion of all of the breadth courses and one depth course. 
+ECE 191, Engineering Group Design Project (4),admission to the ECE departmental honors program. 
+ECE 193H, Honors Project (4–8),none.
+ECE 194, Viacar Design Project (4) ,consent of the department chair. 
+ECE 195, Teaching (2 or 4),BENG 1 or CENG 4 or CSE 11 or CSE 8B or ECE 5 or MAE 3 or NANO 4 or SE 1.
+ECE 196, Engineering Hands-on Group Project (4),minimum UC San Diego 2.5 GPA. Consent of instructor and department stamp. 
+ECE 197," ECE Internship (2, 4, 6, 8, 10, or 12)",consent of instructor. 
+ECE 198, Directed Group Study (2 or 4),consent of instructor. 
+ECE 199, Independent Study for Undergraduates (2 or 4),graduate standing. 

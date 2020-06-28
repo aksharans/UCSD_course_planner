@@ -2,50 +2,40 @@
 {% extends 'template.html' %}
 
 {% block head %}
+
     <script src="../static/function.js"></script>
-    <div class="title w3-container w3-blue-grey">
-    <h1>{{ major }}</h1>
+   <title>{{ major }}</title>
+
+    <div class="w3-container w3-blue-grey">
+        <div class="home"> 
+            <h1>         
+                <a href="/">Home</a>
+            </h1>
+        </div>
+        <div class="title">
+            <h1>{{ major }}</h1>
+        </div>
+
     </div>
+
 {% endblock %}
+
 
 {% block body %}
 
-<!--
-    <div class="t">
-    {% for course in courses %}
-        <h4> {{ course }}</h4> 
-        <div class="table w3-table"> 
-        {{ data | safe }}  
-        </div>        
-    {% endfor %}
-    </div> 
 
-
-<button onclick="myFunction()">Try it</button>
-
-<div id="myDIV">
-This is my DIV element.
-</div> 
-
-<div id="myDIV">
-    <div class="table w3-table"> 
-    {{ data | safe }}  
-    </div> 
-</div>
-
--->
+<div class="t"></div>
 {% for course in courses %}
-<div class="button"> 
-    <button onclick="myFunction('{{course}}')">{{ course }}</button>
-    <div id="{{course}}">
-        <div class="table w3-table"> 
-        {{ data | safe }}  
-        </div> 
+    <div class="button"> 
+        <button onclick="myFunction('{{course}}')" class="w3-btn w3-indigo w3-ripple">{{ course }}</button>
+        <div id="{{course}}">
+            <div class="table w3-table"> 
+            {{ data[course] | safe }}  
+            </div> 
+        </div>
     </div>
-</div>
-
 {% endfor %}
-
+</div>
 
 
 

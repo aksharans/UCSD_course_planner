@@ -33,11 +33,22 @@
 
 /* for page.html */
 .t {
-    width: 600px;
     margin-top: 250px;
 }
 
 .table {
     background-color: beige;
     color: cornflowerblue;
+    margin-left: 18x;
+}
+
+.button{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    width: 600px;
+}
+
+.home h1{
+    margin-top: 0px;
+    float: left;
 }

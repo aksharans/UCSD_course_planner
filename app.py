@@ -13,7 +13,8 @@ def index():
 @app.route('/<major>')
 def welcome(major):
 
-    course_list = ["CSE", "ECE", "MATH", "PHYS"]
+    course_list = ["CSE", "ECE", "PHYS", "MATH", "COGS", "CHEM", 
+    "ECON", "BENG", "ESYS", "HUM", "MAE", "BIOL", "NANO", "CENG", "SE"]
     data = {}
     
     for course in course_list: 

@@ -28,7 +28,7 @@ def scraper():
         csv_name = "./data/" + item[0] + "_courses.csv"
         csv_file = open(csv_name, "w")
         csv_writer = csv.writer(csv_file)
-        csv_writer.writerow(["Code", "Name", "Prerequisites"])
+        csv_writer.writerow(["Code", "Name (Units)", "Prerequisites"])
 
         # Getting a request from the course catalog website and passing the html text into beautiful soup
         r = requests.get(item[1])

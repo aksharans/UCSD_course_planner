@@ -6,7 +6,7 @@ import re
 # Opening a csv file and a writer and declaring 3 columns with the code, name, and prereqs
 csv_file = open("./data/NANO_courses.csv", "w")
 csv_writer = csv.writer(csv_file)
-csv_writer.writerow(["Code", "Name", "Prerequisites"])
+csv_writer.writerow(["Code", "Name (Units)", "Prerequisites"])
 
 
 # Getting a request from the CSE catalog website and passing the html text into beautiful soup
@@ -34,7 +34,7 @@ for res, pre in zip(results, prereqs):
     if code == "CENG 4":
         csv_file2 = open("./data/CENG_courses.csv", "w")
         csv_writer = csv.writer(csv_file2)
-        csv_writer.writerow(["Code", "Name", "Prerequisites"])
+        csv_writer.writerow(["Code", "Name (Units)", "Prerequisites"])
 
     if code ==  "CENG 15: Engineering Computation Using Matlab (4) ":
         code = "CENG 15"

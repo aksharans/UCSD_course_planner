@@ -1,0 +1,72 @@
+Code,Name,Prerequisites
+BENG 1, Introduction to Bioengineering (2),none. (W) 
+BENG 2, Introductory Computer Programming and Matlab (2),bioengineering: biosystems majors only or consent of department. (F) 
+BENG 87, First-year Student Seminar (1),none.
+BENG 97, Internship/Field Studies (1–4),"lower-division standing, completion of thirty units of UC San Diego undergraduate study, a minimum UC San Diego GPA of 3.0, and a completed and approved Special Studies form. (F,W,S) "
+BENG 98, Directed Group Study (1–4),"lower-division standing, completion of thirty units of undergraduate study at UC San Diego with a UC San Diego GPA of at least 3.0 and consent of a bioengineering faculty member; completed and approved Special Studies form. "
+BENG 99, Independent Study for Undergraduates (4),"lower-division standing, completion of thirty units of undergraduate study at UC San Diego with a UC San Diego GPA of at least 3.0 and consent of a bioengineering faculty member; completed and approved Special Studies form. "
+BENG 99H, Independent Study (1),student must be of first-year standing and a Regents Scholar; approved Special Studies form. 
+BENG 100, Statistical Reasoning for Bioengineering Applications (4),"BENG 1, MATH 18 or MATH 31AH or MATH 20F, MATH 20C or MATH 31BH, and MATH 20D, and PHYS 2A-B-C, or consent of department. (S) "
+BENG 102, Molecular Components of Living Systems (4),BENG 120 or consent of department. (S)
+BENG 103B," Bioengineering Mass Transfer (4)Mass transfer in solids, liquids, and gases with application to biological systems","CENG 101A or MAE 101A or BENG 112A, or consent of department. (S) "
+BENG 110, Musculoskeletal Biomechanics (4),"MATH 20D, MATH 20E or MATH 31CH, MATH 18 or MATH 31AH; PHYS 2C, or consent of department. (F) "
+BENG 112A, Soft Tissue Biomechanics (4),BENG 110 or consent of department. (W) 
+BENG 112B, Fluid and Cell Biomechanics (4),BENG 112A or consent of department. (S) 
+BENG 119A, Design Development in Biomechanics (3),concurrent enrollment in BENG 187B; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (F) 
+BENG 119B, Design Implementation in Biomechanics (3),concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W) 
+BENG 120, Organic Chemistry Structural and Design Principles (4),CHEM 6A and 6B; majors only or consent of department. (W)
+BENG 122A, Biosystems and Control (4),MAE 140 or BENG 134 or consent of department. (F) 
+BENG 123, Dynamic Simulation in Bioengineering (4),"MATH 18 or MATH 31AH, MATH 20D, BENG 120, or CHEM 40B; majors only or consent of department. (W) "
+BENG 125, Modeling and Computation in Bioengineering (4),BENG 122A or BENG 123 or consent of department. (S) 
+BENG 126A, Design Development in Bioinformatics Bioengineering (3),concurrent enrollment in BENG 187B; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (F) 
+BENG 126B, Design Implementation in Bioinformatics Bioengineering (3),BENG 126A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W) 
+BENG 127A, Design Development in Molecular Systems Bioengineering (3),concurrent enrollment in BENG 187B; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (F) 
+BENG 127B, Design Implementation in Molecular Systems Bioengineering (3),BENG 127A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W) 
+BENG 128A, Design Development in Genetic Circuits Bioengineering (3),concurrent enrollment in BENG 187B; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (F) 
+BENG 128B, Design Implementation in Genetic Circuits Bioengineering (3),BENG 128A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W) 
+BENG 129A, Design Development in Cell Systems Bioengineering (3),concurrent enrollment in BENG 187B; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (F) 
+BENG 129B, Design Implementation in Cell Systems Bioengineering (3),BENG 129A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W) 
+BENG 130, Biotechnology Thermodynamics and Kinetics (4),"CHEM 6B, MATH 20A, 20B, 20D, PHYS 2A, 2B, 2C; majors only or consent of department. (W) "
+BENG 133, Numerical Analysis and Computational Engineering (4),MATH 20D and 18 or consent of department. (S)
+BENG 134," Measurements, Statistics, and Probability (4)",MATH 20D and MATH 18 or MATH 31AH; BENG 100 or consent of department. (F)
+BENG 135, Biomedical Signals and Systems (4),ECE 45 and BENG 133 or consent of department. (F) Not offered until fall 2016.
+BENG 139A, Design Development in Molecular Bioengineering (3),concurrent enrollment in BENG 187B; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (F) 
+BENG 139B, Design Implementation in Molecular Bioengineering (3),BENG 139A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W) 
+BENG 140A, Bioengineering Physiology (4),"CHEM 6A-B, PHYS 2A-B-C, BILD 1, or BENG 102; majors only or consent of department. (W) "
+BENG 140B, Bioengineering Physiology (4), BENG 140A; majors only or consent of instructor. (S) 
+BENG 141, Biomedical Optics and Imaging (4),BENG 100 or consent of department. (F)
+BENG 147A, Design Development in Neural Engineering (3),concurrent enrollment in BENG 187B; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (F) 
+BENG 147B, Design Implementation in Neural Engineering (3),BENG 147A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W) 
+BENG 148A, Design Development in Cardiac Bioengineering (3),concurrent enrollment in BENG 187B; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (F) 
+BENG 148B, Design Implementation in Cardiac Bioengineering (3),BENG 148A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W) 
+BENG 149A, Design Development in Vascular Bioengineering (3),concurrent enrollment in BENG 187B; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (F) 
+BENG 149B, Design Implementation in Vascular Bioengineering (3),BENG 149A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W) 
+BENG 152, Biosystems Engineering Laboratory (4),BENG 102; bioengineering: biosystems majors only or consent of department. (W)
+BENG 160, Chemical and Molecular Bioengineering Techniques (4),"BICD 100, BENG 100, MAE 170; majors only or consent of department. (S) "
+BENG 161A, Bioreactor Engineering (4),BENG 123 and BENG 160 or consent of department. (F) 
+BENG 161B, Biochemical Engineering (4),BENG 161A or consent of department. (W) 
+BENG 162, Biotechnology Laboratory (4),MAE 170 and BENG 160; majors only or consent of department. (F) 
+BENG 166A, Cell and Tissue Engineering (4),BENG 103B or BENG 112B; senior standing or consent of department. (F) 
+BENG 168, Biomolecular Engineering (4),"BILD 1 and BENG 100, or consent of department. (W) "
+BENG 169A, Design Development in Tissue Engineering (3),concurrent enrollment in BENG 187B; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (F) 
+BENG 169B, Design Implementation in Tissue Engineering (3),BENG 169A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W) 
+BENG 172, Bioengineering Laboratory (4),MAE 170; junior or senior standing in the major or consent of instructor. (S) 
+BENG 179A, Design Development in Bioinstrumentation (3),concurrent enrollment in BENG 187B; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (F) 
+BENG 179B, Design Implementation in Bioinstrumentation (3),BENG 179A; concurrent enrollment in BENG 187C; bioengineering or bioengineering: biotechnology majors only or consent of instructor. (W) 
+BENG/BIMM/CSE 181, Molecular Sequence Analysis (4),CSE 100; CSE 101; BIMM 100 or CHEM 114C; bioinformatics majors only. (W) 
+BENG/BIMM/CSE/CHEM 182, Biological Databases (4),CSE 100; bioinformatics majors only. (S) 
+BENG 183, Applied Genomic Technologies (4),"BIMM 100 or CHEM 114C, or consent of department. (F) "
+BENG/BIMM/CSE/CHEM 184, Computational Molecular Biology (4),BENG 181 or BIMM 181 or CSE 181; BENG 182 or BIMM 182 or CSE 182 or CHEM 182; bioinformatics majors only. (S) 
+BENG 186A, Principles of Biomaterials Design (4),"BENG 112B or BENG 123, or consent of department. (S) "
+BENG 186B, Principles of Bioinstrumentation Design (4),ECE 35 or MAE 140; ECE 45 or MAE 170; or consent of department. (W) 
+BENG 187A, Bioengineering Design Project: Planning (1),"BENG 112A or BENG 152 or BENG 168; bioengineering, bioengineering: biotechnology, or bioengineering: biosystems majors only or consent of department. (S)"
+BENG 187B, Bioengineering Design Project: Development (1),"BENG 187A; concurrent enrollment in one of BENG 119A, BENG 126A, BENG 127A, BENG 128A, BENG 129A, BENG 139A, BENG 147A, BENG 148A, BENG 149A, BENG 169A, or BENG 179A; bioengineering, bioengineering: biotechnology, or bioengineering: biosystems majors only or consent of instructor. (F)"
+BENG 187C, Bioengineering Design Project: Implementation (1),"BENG 187B; concurrent enrollment in one of the following lab sections: BENG 119B, BENG 126B, BENG 127B, BENG 128B, BENG 129B, BENG 139B, BENG 147B, BENG 148B, BENG 149B, BENG 169B, or BENG 179B; bioengineering, bioengineering: biotechnology, or bioengineering: biosystems majors only or consent of instructor. (W) "
+BENG 187D, Bioengineering Design Project: Presentation (1),"BENG 187C; bioengineering, bioengineering: biotechnology, or bioengineering: biosystems majors only or consent of instructor. (S) "
+BENG 189, Physiological Systems Engineering (4),"BENG 133, 134, 135, 140A and 140B, or consent of department. (S) Not offered until spring 2017."
+BENG 193, Clinical Bioengineering (4),BENG 140A or BIPN 100; BENG 140B or BIPN 102; consent of instructor required. A GPA of 3.5 is requested as a requirement per the agreement with the School of Medicine to ensure that students who are participating in the program have a strong academic background to be in the clinic as an undergraduate. (F)
+BENG 195, Teaching (2–4),"3.0 GPA in the major and departmental approval. (F,W,S) "
+BENG 196, Bioengineering Industrial Internship (1–4),"consent of department and completion of all lower-division course requirements, including general-science requirement; laboratory experience. (F,W,S,Su) "
+BENG 197, Engineering Internship (1–4),"completion of ninety units with a 2.5 GPA and consent of a bioengineering faculty coordinator. (F,W,S,Su) "
+BENG 198, Directed Group Study (1–4),"upper-division standing, completion of ninety units of UC San Diego undergraduate study, a minimum UC San Diego GPA of 2.5, consent of instructor, and a completed and approved Special Studies form. (F,W,S) "
+BENG 199, Independent Study for Undergraduates (4),"upper-division standing, completion of ninety units of UC San Diego undergraduate study, a minimum UC San Diego GPA of 2.5, consent of instructor, and a completed and approved Special Studies form. (F,W,S,Su) "

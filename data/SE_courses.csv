@@ -1,0 +1,51 @@
+Code,Name,Prerequisites
+SE 1, Introduction to Structures and Design (4),none.
+SE 2, Structural Materials (3),"CHEM 6A, PHYS 2A. "
+SE 2L, Structural Materials Lab (1),"CHEM 6A, PHYS 2A, and SE 2."
+SE 3, Graphical Communication for Engineering Design (4),SE 1
+SE 7, Spatial Visualization (1),none.
+SE 9, Algorithms and Programming for Structural Engineering (4),grade of C– or better in MATH 20D and MATH 18.
+SE 87, First-year Student Seminar (1),open to first-year students only. 
+SE 99H, Independent Study (1),student must be of first year standing and a Regents Scholar. Consent of instructor or department stamp. 
+SE 101A, Mechanics I: Statics (4),none.
+SE 101B, Mechanics II: Dynamics (4),grade of C– or better in MATH 20C and PHYS 2A. 
+SE 101C, Mechanics III: Vibrations (4),grades of C– or better in SE 101A (or MAE 130A).
+SE 103, Conceptual Structural Design (4),MATH 18 and SE 101B (or MAE 130B). 
+SE 104, Structural Materials (4),"SE 9, SE 101A (or MAE 130A), SE 104, and SE 104L."
+SE 104L, Structural Materials Lab (1),SE 1 and SE 101A or MAE 130A.
+SE 110A, Solid Mechanics I (4),grade of C– or better in MATH 20D and SE 101A (or MAE 130A). 
+SE 110B, Solid Mechanics II (4),"grade of C– or better in SE 110A (or MAE 131A), SE majors. "
+SE 115, Fluid Mechanics for Structural Engineering (4) ,"PHYS 2A and MATH 20D, or consent of instructor."
+SE 120, Engineering Graphics & Computer Aided Structural Design (4),"SE 102 and SE 103, SE majors. "
+SE 121A, Introduction to Computing for Engineers (4),SE 9 and SE 101A (or MAE 130A).
+SE 121B, Computing Projects in Structural Engineering (4),SE 101C (or MAE 130C) and SE 121A.
+SE 125," Statistics, Probability and Reliability (4)",SE majors. 
+SE 130A–B, Structural Analysis (4),grades of C– or better in SE 110A (or MAE 131A). SE 130A for SE 130B. Priority enrollment given to structural engineering majors. 
+SE 131, Finite Element Analysis (4),"SE 101C or MAE 130C, and SE 121B. Corequisite: SE 130B."
+SE 140, Structures and Materials Laboratory (4),"SE 103, SE 130B, and senior standing in the major. "
+SE 140A, Professional Issues and Design for Civil Structures I (4),SE 130B and SE 150.
+SE 140B, Professional Issues and Design for Civil Structures II (4),"SE 140A, SE 151A, and SE 181."
+SE 142, Design of Composite Structures (4),"SE 110A (or MAE 131A), SE 110B, and SE 160A. "
+SE 143A, Aerospace Structural Design I (4),"SE 3, SE 142, and SE 160B."
+SE 143B, Aerospace Structural Design II (4),SE 143A.
+SE 150, Design of Steel Structures (4),SE 130A.  
+SE 151A, Design of Reinforced Concrete (4),grade of C– or better in SE 103 and SE 130A. 
+SE 151B, Design of Prestressed Concrete (4),grade of C– or better in SE 151A.
+SE 152, Seismic Design of Structures (4),"SE 130B, SE 150, and SE 151A."
+SE 154, Design of Timber Structures (4),grade of C– or better in SE 103 and SE 130A; SE major. 
+SE 160A, Aerospace Structural Mechanics I (4),"SE 2, SE 2L, SE 101B (or MAE 130B), and SE 110A (or MAE 131A). Priority enrollment given to engineering majors. "
+SE 160B, Aerospace Structural Mechanics II (4),SE 101C (or MAE 130C) and SE 160A. Priority enrollment given to engineering majors. 
+SE 163, Nondestructive Evaluation (4),grade of C– or better in SE 110A and SE 110B or consent of instructor; SE major. 
+SE 164, Sensors and Data Acquisition for Structural Engineering (4),SE 101C (or MAE 130C) and SE 110A.
+SE 165, Structural Health Monitoring (4),none.
+SE 168, Structural System Testing and Model Correlation (4),grade of C– or better in SE 101C (or MAE 130C) and SE 131.
+SE 171, Aerospace Structures Repair (4),SE 160A or consent of instructor. 
+SE 180, Earthquake Engineering (4),"grade of C– or better in SE 110A, and SE 130A. Priority enrollment given to structural engineering majors. "
+SE 181, Geotechnical Engineering (4),grade of C– or better in SE 110A or MAE 131A; SE major. 
+SE 182, Foundation Engineering (4),grade of C– or better in SE 181; SE major. 
+SE 184, Ground Improvement (4),SE 181.
+SE 192, Senior Seminar (1),SE major. Department stamp and/or consent of instructor. 
+SE 195, Teaching (2–4),"B average in major, upper-division standing, and consent of department chair. Department stamp required. "
+SE 197, Engineering Internship (1–4),completion of ninety units with a 2.5 GPA and consent of department chair. Department stamp required. 
+SE 198, Directed Study Group (4),consent of instructor or department stamp. 
+SE 199, Independent Study (1–4),consent of instructor or department stamp. 

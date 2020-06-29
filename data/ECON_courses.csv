@@ -1,0 +1,88 @@
+Code,Name,Prerequisites
+ECON 1, Principles of Microeconomics (4),none.
+ECON 2, Market Imperfections and Policy (4),ECON 1. 
+ECON 3, Principles of Macroeconomics (4),ECON 1. 
+ECON 4, Financial Accounting (4),none.
+ECON 5, Data Analytics for the Social Sciences (4),none.
+ECON 87, First-year Student Seminar (1),none.
+ECON 100A, Microeconomics A (4),ECON 1 and MATH 10C or 20C or 31BH.
+ECON 100B, Microeconomics B (4),ECON 100A. 
+ECON 100C, Microeconomics C (4) ,ECON 100B.
+ECON 100AH, Honors Microeconomics A (1) ,department approval required.
+ECON 100BH, Honors Microeconomics B (1) ,department approval required.
+ECON 100CH, Honors Microeconomics C (1) ,department approval required.
+ECON 101, International Trade (4),ECON 100B or 102. 
+ECON 102, Globalization (4),ECON 1 or 100B and 2 or 3 or MATH 20C.
+ECON 102T, Advanced Topic in Globalization (2),department approval required. May be taken concurrently with ECON 102 or after completion of ECON 102.
+ECON 103, International Monetary Relations (4),ECON 102 or 110B or 173A. 
+ECON 105, Industrial Organization and Firm Strategy (4),ECON 100C.
+ECON 106, International Economic Agreements (4),ECON 100B and 102.
+ECON 107, Economic Regulation and Antitrust Policy (4),ECON 2 or 100B; and MATH 10C or 20C or 31BH. 
+ECON 109, Game Theory (4),ECON 100C or MATH 31CH or MATH 109 or (CSE 20 and MATH 20 C). 
+ECON 109T, Advanced Topics in Game Theory (2),department approval required. May be taken concurrently with ECON 109 or after completion of ECON 109.
+ECON 110A, Macroeconomics A (4),ECON 1 and ECON 3 and MATH 10C or 20C or 31BH. 
+ECON 110B, Macroeconomics B (4),ECON 110A. 
+ECON 110AH, Honors Macroeconomics A (1) ,department approval required.
+ECON 110BH, Honors Macroeconomics B (1) ,department approval required.
+ECON 111, Monetary Economics (4),ECON 110B. 
+ECON 112, Macroeconomic Data Analysis (4),"ECON 110B and ECON 120B or MATH 181B. Enrollment limited to EN25, EN26, EN28, and MA33 majors only."
+ECON 113, Mathematical Economics (4),ECON 100C or MATH 140A or MATH 142A and MATH 18 or MATH 31AH. 
+ECON 116, Economic Development (4),ECON 2 or 100B. 
+ECON 117, Economic Growth (4),ECON 100A. 
+ECON 118," Law and Economics: Torts, Property, and Crime (4)",ECON 2 or 100A; and MATH 10A or 20A. 
+ECON 119, Law and Economics: Contracts and Corporations (4),ECON 2 or 100A and MATH 10A or 20A.
+ECON 120A, Econometrics A (4),ECON 1; and MATH 10C or 20C or 31BH.
+ECON 120B, Econometrics B (4),ECON 120A or ECE 109 or MAE 108 or MATH 180A or MATH 183 or MATH 186.
+ECON 120C, Econometrics C (4),ECON 120B or MATH 181B. 
+ECON 120AH, Honors Econometrics A (1) ,department approval required.
+ECON 120BH, Honors Econometrics B (1) ,department approval required.
+ECON 120CH, Honors Econometrics C (1) ,department approval required.
+ECON 121, Applied Econometrics and Data Analysis (4),ECON 120C.
+ECON 122, Econometric Theory (4),ECON 120B or MATH 181B and MATH 18 or MATH 31AH.
+ECON 125, Demographic Analysis and Forecasting (4),ECON 120B or MATH 181B.
+ECON 130, Public Policy (4),ECON 2 or 100A. 
+ECON 131, Economics of the Environment (4),ECON 2 or 100A. 
+ECON 132, Energy Economics (4),ECON 1 and (ECON 2 or 3 or 100A or 131 or ESYS 103 or MAE 124) and MATH 10C or 20C or 31BH.
+ECON 134, The US Social Safety Net (4),"ECON 100A. Enrollment limited to EN25, EN26, EN28, and MA33 majors only."
+ECON 135, Urban Economics (4),ECON 2 or 100A; and MATH 10A or 20A. 
+ECON 136, Human Resources (4),ECON 100B.
+ECON 137, Corruption (4),"ECON 100C and 120C. Enrollment limited to EN25, EN26, EN28, and MA33 majors only."
+ECON 138, Economics of Discrimination (4),ECON 1.
+ECON 139, Labor Economics (4),ECON 2 or 100B.
+ECON 140, Economics of Health Producers (4),ECON 2 or 100B.
+ECON 141, Economics of Health Consumers (4),ECON 100C.
+ECON 142, Behavioral Economics (4),ECON 109. 
+ECON 143, Experimental Economics (4),"ECON 100C. Enrollment limited to EN25, EN26, EN28, and MA33 majors only."
+ECON 144, Economics of Conservation (4),ECON 2 or 100A.
+ECON 145, Economics of Ocean Resources (4),ECON 2 or 100A. 
+ECON 146, Economic Stabilization (4),ECON 110B. 
+ECON 147, Economics of Education (4),ECON 2 or 100A; and ECON 120B or MATH 181B.
+ECON 150, Public Economics: Taxation (4),ECON 100C.
+ECON 151, Public Economics: Expenditures I (4),ECON 100C.
+ECON 152, Public Economics: Expenditures II (4),ECON 100C.
+ECON 158, Economic History of the United States I (4),upper-division standing. 
+ECON 159, Economic History of the United States II (4),upper-division standing. 
+ECON 162, Economics of Mexico (4),ECON 1 and 3.
+ECON 164, The Indian Economy (4),ECON 1 and 3.
+ECON 164T, Advanced Topics in the Indian Economy (2),department approval required. May be taken concurrently with ECON 164 or after completion of ECON 164.
+ECON 165, Middle East Economics (4),ECON 1 and 3.
+ECON 165T, Advanced Topics in Middle East Economics (2),department approval required. May be taken concurrently with ECON 165 or after completion of ECON 165.
+ECON 167, Economics of China (4),ECON 1 and 3.
+ECON 168, Economics of Modern Israel (4),ECON 1 and 3.
+ECON 169, Economics of Korea (4),ECON 3 and 100A.
+ECON 171, Decisions Under Uncertainty (4),ECON 100A and ECON 120A or ECE 109 or MATH 180A or MATH 183 or MATH 186. 
+ECON 172A, Operations Research A (4),ECON 100A; and ECON 120A or ECE 109 or MATH 180A or MATH 183 or MATH 186; and MATH 18 or 31AH.
+ECON 172B, Operations Research B (4),ECON 172A or MATH 171A. 
+ECON 173A, Financial Markets (4),ECON 100A and ECON 120B or MATH 181B; and MATH 18 or 31AH.
+ECON 173B, Corporate Finance (4),ECON 4 or MGT 4; and ECON 173A.
+ECON 174, Financial Risk Management (4),ECON 173A.
+ECON 176, Marketing (4),ECON 120C. 
+ECON 178, Economic and Business Forecasting (4),ECON 120C.
+ECON 181, Topics in Economics (4),ECON 1 and ECON 3.
+ECON 182, Topics in Microeconomics (4),ECON 100C. 
+ECON 183, Topics in Macroeconomics (4),ECON 110B.
+ECON 191A, Senior Essay Seminar A (4),department stamp required.
+ECON 191B, Senior Essay Seminar B (4),department stamp required.
+ECON 195, Introduction to Teaching Economics (4),consent of the department. 
+ECON 198, Directed Group Study (2 or 4),upper-division standing and consent of instructor. May be repeated up to three times when course topics vary. (P/NP grades only.) 
+ECON 199, Independent Study (2 or 4),consent of instructor and departmental approval. 

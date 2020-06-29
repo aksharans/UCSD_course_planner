@@ -1,0 +1,72 @@
+Code,Name,Prerequisites
+MAE 02, Introduction to Aerospace Engineering (4),none.
+MAE 03,Introduction to Engineering Graphics and Design (4)
+MAE 05, Quantitative Computer Skills (4),none. 
+MAE 07, Spatial Visualization (1),none.
+MAE 08, Matlab Programming for Engineering Analysis (4),MATH 20A and 20B or consent of instructor.
+MAE 11, Thermodynamics (4),PHYS 2C and CHEM 6A. Enrollment restricted to engineering majors only. 
+MAE 20, Elements of Materials Science (4),"PHYS 2A or 4A, CHEM 6A or CHEM 6AH, and MATH 20C. "
+MAE 21, Aerospace Materials Science (4),"PHYS 2A or 4A, CHEM 6A or CHEM 6AH, and MATH 20B. Enrollment restricted to MC 25 majors only."
+MAE 30A, Kinematics (4),PHYS 2A and MATH 31BH or MATH 20C.
+MAE 30B, Dynamics and Vibrations (4),MAE 30A.
+MAE 40, Linear Circuits (4),"MATH 20D and MATH 31AH or MATH 18 or MATH 20F, and PHYS 2B. "
+MAE 87, First-year Student Seminar (1),none. 
+MAE 92A," Design Competition—Design, Build, and Fly Aircraft (1)",consent of instructor.
+MAE 93," Design Competition—Design, Build, and Test Race Car (1)",department approval. 
+MAE 98, Directed Group Study (2),student must be of first-year standing and a Regent’s Scholar; approved Special Studies form.
+MAE 99H, Independent Study (1),"PHYS 2A or 4A and MATH 20D and MATH 20E or MATH 31CH, or consent of instructor. Enrollment restricted to MC25, MC27, and MC29 majors only."
+MAE 101A, Introductory Fluid Mechanics (4),"MAE 101A or CENG 101A, and MAE 11 or MAE 110A or CENG 102, or consent of instructor. "
+MAE 101B, Advanced Fluid Mechanics (4),"MAE 101A or CENG 101A, and MAE 105. "
+MAE 101C, Heat Transfer (4),"senior standing and MAE 101C, or consent of instructor. "
+MAE 101D, Intermediate Heat Transfer (4),"grades of C– or better in MAE 101A and 101B, or consent of instructor. Enrollment restricted to MC 25, MC 27, MC 28, and SE 27 majors only."
+MAE 104, Aerodynamics (4),"grades of C– or better in PHYS 2A and B, and MATH 20D or 21D. Enrollment restricted to engineering majors only."
+MAE 105, Introduction to Mathematical Physics (4),"MAE 8 or 9, and MATH 18 or 20F or 31AH."
+MAE 107, Computational Methods in Engineering (4),MATH 18 or 20F.
+MAE 108, Probability and Statistical Methods for Mechanical Engineering (4),MAE 11 or 110A. (Course not offered every year.)
+MAE 110, Thermodynamic Systems (4),"MAE 11 or MAE 110A or CENG 102, and MAE 101A or CENG 101A, and MAE 101B or CENG 101C. Enrollment restricted to MC 25, MC 27, and MC 28 majors only."
+MAE 113, Fundamentals of Propulsion (4),"MATH 20D or 21D, or consent of instructor."
+MAE 117A, Elementary Plasma Physics (4),"MAE 101A or CENG 101A, or consent of instructor. "
+MAE 118, Introduction to Energy and Environment (4),"MAE 101A or CENG 101A, or consent of instructor. "
+MAE 119, Introduction to Renewable Energy: Solar and Wind (4),"MAE 101A or CENG 101A, or consent of instructor."
+MAE 120, Introduction to Nuclear Energy (4),MAE 122.
+MAE 121, Air Pollution Transport and Dispersion Modeling (4),"MAE 101A or CENG 101A, or consent of instructor."
+MAE 122, Flow and Transport in the Environment (4),none.
+MAE 123, Introduction to Transport in Porous Media (4),"MATH 20B and MATH 10A–C, or consent of instructor. "
+MAE 124, Environmental Challenges: Science and Solutions (4),upper-division standing.
+MAE 125, Building Energy Efficiency (4),MAE 101A or CENG 101A; MAE 170 and MAE 122. 
+MAE 126A, Environmental Engineering Laboratory (4), MAE 126A. 
+MAE 126B, Environmental Engineering Design (4),MATH 18 or MATH 20F or MATH 31AH and MAE 30B or MAE 130B. 
+MAE 130, Advanced Vibrations (4),MATH 20D and MAE 30A or MAE 130A or SE 101A. 
+MAE 131A, Solid Mechanics I (4),MAE 131A or SE 110A and MAE 105. Enrollment restricted to engineering majors only.
+MAE 131B, Fundamentals of Solid Mechanics II (4),grade of C– or better in MAE 131A or SE 110A. (Not offered every year.)
+MAE 133, Finite Element Methods in Mechanical and Aerospace Engineering (4),"grades of C– or better in MAE 104 and MAE 143B or ECE 171A, or consent of instructor. Enrollment restricted to engineering majors only."
+MAE 142, Dynamics and Control of Aerospace Vehicles (4),"MATH 20D or 21D, MATH 20E, MATH 18 or 20F or 31AH, or consent of instructor. "
+MAE 143A, Signals and Systems (4),MAE 143A or consent of instructor. 
+MAE 143B, Linear Control (4),"upper-division standing or graduate student, and MAE 143B or BENG 122A or ECE 171A, or consent of instructor."
+MAE 144, Embedded Control and Robotics (4),senior standing or consent of instructor.
+MAE 145, Introduction to Robotic Planning and Estimation (4),ECE 15 or ECE 35 or MAE 2 or MAE 3 and departmental approval.
+MAE 148, Introduction to Autonomous Vehicles (4),upper-division standing. (Not offered every year.)
+MAE 149, Sensor Networks (4),"MAE 30A or MAE 130A or SE 101A or BENG 110, MAE 107 or SE 121, MAE 3, and senior standing in engineering major, or consent of instructor. "
+MAE 150, Computer-Aided Design (4),none.
+MAE 152, Introductions to Manual and CNC Machining (1),upper-division standing and consent of instructor.
+MAE 154, Product Design and Entrepreneurship (4),"MAE 2, MAE 21, or SE 2 or SE 104, MAE 104, MAE 30B or MAE 130C, and SE 160B, or consent of instructor. "
+MAE 155A, Aerospace Engineering Design I (4)," MAE 113, MAE 142, MAE 155A, and MAE 170, or consent of instructor. "
+MAE 155B, Aerospace Engineering Design II (4),"MAE 3, MAE 30B, MAE 131A, MAE 150, and MAE 170, or consent of instructor. Open to major code MC 27 only."
+MAE 156A, Fundamental Principles of Mechanical Design I (4),"MAE 156A in the immediately preceding quarter, MAE 101C, MAE 143B, and MAE 160 or MAE 131B. Open to major code MC 27 only."
+MAE 156B, Fundamental Principles of Mechanical Design II (4),"MAE 20, MAE 30A or MAE 130A or SE 101A, and MAE 131A, or consent of instructor. "
+MAE 160, Mechanical Behavior of Materials (4),consent of instructor. (Not offered every year.)
+MAE 165, Fatigue and Failure Analysis of Engineering Components (4),upper-division standing. (Not offered every year.)
+MAE 166, Nanomaterials (4),consent of instructor. (Not offered every year.)
+MAE 167, Wave Dynamics in Materials (4),"PHYS 2C or PHYS 4B and PHYS 2CL or MAE 140. Enrollment restricted to MC 25, MC 27, MC 29, CE 25, BE 25, BE 27."
+MAE 170, Experimental Techniques (4),MAE 101A and MAE 170. Enrollment restricted to MC 27 majors only.
+MAE 171A, Mechanical Engineering Laboratory I (4),grade of C– or better in MAE 171A. (Not offered every year.)
+MAE 171B, Mechanical Engineering Laboratory II (4),"senior standing; MAE 101C or CENG 101B; MAE 143B or CENG 120; and MAE 170, or consent of instructor."
+MAE 175A, Aerospace Engineering Laboratory I (4),"upper-division standing in physics, mathematics, or engineering department. "
+MAE 180A, Spacecraft Guidance I (4),upper-division standing or consent of instructor.
+MAE 181, Space Mission Analysis and Design (4) ,upper-division standing or consent of instructor.
+MAE 184, Flight Simulation Techniques (4),upper-division standing.
+MAE 190, Topics in Mechanical and Aerospace Engineering (4),upper-division standing.
+MAE 191, Topics in Mechanical and Aerospace Engineering with Laboratory (4),"consent of instructor and department stamp, 2.50 overall GPA minimum, at least ninety units. "
+MAE 197, Engineering Internship (1–12),consent of instructor. 
+MAE 198, Directed Group Study (1–4),consent of instructor. 
+MAE 199, Independent Study for Undergraduates (4),nongraduate students may enroll with consent of instructor.

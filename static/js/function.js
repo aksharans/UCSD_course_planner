@@ -1,6 +1,6 @@
-function myFunction(course) {
+function toggle(course) {
     var x = document.getElementById(course);
-    if (x.style.display === "none") {
+    if (x.style.display == "none") {
       x.style.display = "block";
     } else {
       x.style.display = "none";

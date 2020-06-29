@@ -1,0 +1,87 @@
+Code,Name,Prerequisites
+CHEM 1, The Scope of Chemistry and Biochemistry (1),none.
+CHEM 4, Basic Chemistry (4),none.
+CHEM 6A, General Chemistry I (4),none.
+CHEM 6AH, Honors General Chemistry I (4),none.
+CHEM 6B, General Chemistry II (4),CHEM 6A or 6AH and MATH 10A or 20A. Recommended: concurrent or prior enrollment in MATH 10B or 20B.
+CHEM 6BH, Honors General Chemistry II (4),CHEM 6AH and MATH 20A. Recommended: concurrent or prior enrollment in MATH 20B. 
+CHEM 6C, General Chemistry III (4),CHEM 6B or 6BH. Recommended: completion of MATH 10B or 20B.
+CHEM 6CH, Honors General Chemistry III (4),CHEM 6BH and MATH 20B. 
+CHEM 7L, General Chemistry Laboratory (4),CHEM 6B or CHEM 6BH. 
+CHEM 7LM, General Chemistry Laboratory for Majors (4),"CHEM 6B or CHEM 6BH. Restricted to the following major codes: CH25, CH32, CH31, CH33, CH34, CH35, CH36, CH37. "
+CHEM 11, The Periodic Table (4),none.
+CHEM 12, Molecules and Reactions (4),CHEM 11 or good knowledge of high school chemistry. 
+CHEM 13, Chemistry of Life (4),none.
+CHEM 40A, Organic Chemistry I (4),CHEM 6B or CHEM 6BH. 
+CHEM 40AH, Honors Organic Chemistry I (4),B+ or higher grade in CHEM 6C or CHEM 6CH.
+CHEM 40B, Organic Chemistry II (4),CHEM 40A or 140A (a grade of C or higher in CHEM 140A or 40A is strongly recommended). 
+CHEM 40BH, Honors Organic Chemistry II (4),"grade of B or higher in CHEM 40A, 40AH, 140A, or 140AH."
+CHEM 40C, Organic Chemistry III (4),CHEM 40B or 140B (a grade of C or higher in CHEM 40B or 140B is strongly recommended). 
+CHEM 40CH, Honors Organic Chemistry (4) ,"grade of B+ or higher in CHEM 40B or 140B, or B– or higher in CHEM 40BH or 140BH."
+CHEM 43A, Organic Chemistry Laboratory (4),"CHEM 7L or 7LM and 40A, 40AH, 140A, or 140AH. "
+CHEM 43AM, Organic Chemistry Laboratory for Majors (4),"CHEM 7L or 7LM and CHEM 40A, 40AH, 140A, or 140AH. "
+CHEM 87, First-year Student Seminar in Chemistry and Biochemistry (1),none.
+CHEM 96, Introduction to Teaching Science (2),none.
+CHEM 99, Independent Study (2 or 4),"lower-division standing, 3.0 minimum UC San Diego GPA, consent of instructor and department, completion of thirty units of undergraduate study at UC San Diego, completed and approved Special Studies form. "
+CHEM 99H, Independent Study (1),student must be of first-year standing and a Regent’s Scholar; approved Special Studies form.
+CHEM 100A, Analytical Chemistry Laboratory (4),"CHEM 6C or 6CH and CHEM 6BL, 7L, or 7LM. Recommended: PHYS 2CL or 2BL."
+CHEM 100B, Instrumental Chemistry Laboratory (5),CHEM 100A and PHYS 2C or 2D and PHYS 2BL or 2CL or 2DL.
+CHEM 105A, Physical Chemistry Laboratory (4),"CHEM 6CL or 100A, PHYS 2BL or 2CL or 2DL, and CHEM 126 or 126A or 126B or 127 or 130 or 131 or 133."
+CHEM 105B, Physical Chemistry Laboratory (4),CHEM 105A. 
+CHEM 108, Protein Biochemistry Laboratory (6),"CHEM 43A, 143A, 43AM or 143AM, and CHEM 114A."
+CHEM 109, Recombinant DNA Laboratory (6),"CHEM 43A, 143A, 43AM, or 143AM and CHEM 114A."
+CHEM 111, Origins of Life and the Universe (4),CHEM 6C or 6CH.
+CHEM 113, Biophysical Chemistry of Macromolecules (4),"CHEM 40C, 40CH, 140C, or 140CH."
+CHEM 114A, Biochemical Structure and Function (4),CHEM 40A or 140A. 
+CHEM 114B, Biochemical Energetics and Metabolism (4),"CHEM 40B, 140B, 40BH, or 140BH."
+CHEM 114C, Biosynthesis of Macromolecules (4),CHEM 114A or BIBC 100.
+CHEM 114D, Molecular and Cellular Biochemistry (4),"CHEM 114A, 114B, and 114C."
+CHEM 115," Genome, Epigenome, and Transcriptome Editing (4)",CHEM 114A.
+CHEM 116, Chemical Biology (4),"CHEM 40C, 40CH, 140C, or 140CH, and CHEM 114A. (May not be offered every year.)"
+CHEM 118, Pharmacology and Toxicology (4),CHEM 114A.
+CHEM 119, RNA Biochemistry (4),BIMM 100 or CHEM 114C and CHEM 40C or CHEM 40CH.
+CHEM 120A, Inorganic Chemistry I (4),CHEM 6C or 6CH and CHEM 40A or 140A. 
+CHEM 120B, Inorganic Chemistry II (4),CHEM 120A.
+CHEM 123, Advanced Inorganic Chemistry Laboratory (4),CHEM 114A or 120A.
+CHEM 125, Bioinorganic Chemistry (4),"CHEM 6C or 6CH, PHYS 1C or 2C or 2D, and MATH 10C or 20C."
+CHEM 126A, Physical Biochemistry I: Thermodynamics and Kinetics of Biomolecules (4),CHEM 126A or 127.
+CHEM 126B, Physical Biochemistry II: Quantum and Statistical Mechanics of Biomolecules (4),"CHEM 6C or 6CH, and PHYS 2C or 2D, and MATH 20D."
+CHEM 130, Chemical Physics: Quantum Mechanics (4),"CHEM 6C or 6CH, MATH 20C, and PHYS 2C or 2D."
+CHEM 131, Chemical Physics: Stat Thermo I (4),"CHEM 130 or 133, and CHEM 131."
+CHEM 132, Chemical Physics: Stat Thermo II (4),CHEM 6C and PHYS 2C.
+CHEM 134, Polymeric Materials (4),CHEM 126 or 126B or 130 or 133 and MATH 20D. 
+CHEM 135, Molecular Spectroscopy (4),"CHEM 40A, 140A, 40AH, or 140AH."
+CHEM 141, Organic Nanomaterials (4),"CHEM 40B, 140B, 40BH, or 140BH and BIBC 100 or BILD 1 or CHEM 114A. "
+CHEM 142, Introduction to Glycosciences (4),"CHEM 43A, 143A, 43AM or 143AM, and CHEM 40B or 140B."
+CHEM 143B, Organic Chemistry Laboratory (4),"CHEM 43A, 43AM, 143A, 143AM, or 143AH and CHEM 40B, 40BH, 140B, or 140BH. "
+CHEM 143C, Organic Chemistry Laboratory (4),"CHEM 40C, 140C, 40CH, or 140CH and CHEM 143B. "
+CHEM 143D, Molecular Design and Synthesis (4),"CHEM 40B, 40BH, 140B, or 140BH."
+CHEM 145, Biofuels and Renewable Materials (4),"CHEM 40C, 140C, 40CH, or 140CH. "
+CHEM 146, Kinetics and Mechanism of Organic Reactions (4),"CHEM 40A, 140A, 40AH, or 140AH."
+CHEM 151, Molecules that Changed the World (4) ,"CHEM 40C, 140C, 40CH, or 140CH. "
+CHEM 152, Synthetic Methods in Organic Chemistry (4),"CHEM 40C, 140C, 40CH, or 140CH."
+CHEM 154, Mechanisms of Organic Reactions (4),CHEM 152 or 154. 
+CHEM 155, Synthesis of Complex Molecules (4),"CHEM 40C, 140C, 40CH, or 140CH. "
+CHEM 156, Structure and Properties of Organic Molecules (4),"CHEM 40C, 140C, 40CH, or 140CH. "
+CHEM 157, Bioorganic and Natural Products Chemistry (4),"CHEM 40C, 140C, 40CH, or 140CH. "
+CHEM 158, Applied Spectroscopy (4),BIBC 100 or CHEM 114A and BIBC 102 or CHEM 114B and BIMM 100 or CHEM 114C.
+CHEM 164, Structural Biology of Viruses (4),CHEM 114A or BIBC 100.
+CHEM 165, 3D Cryo-Electron Microscopy of Macromolecules and Cells (4),"CHEM 40C, 140C, 40CH or 140CH and CHEM 114A."
+CHEM 167, Medicinal Chemistry (4),"CHEM 40C, 40CH, 140C, or 140CH and CHEM 114A. "
+CHEM 168, Drug Synthesis and Design (4),CHEM 6C or 6CH. 
+CHEM 171, Environmental Chemistry I (4),CHEM 6C or 6CH.
+CHEM 172, Environmental Chemistry II (4),CHEM 6C or 6CH. 
+CHEM 173, Atmospheric Chemistry (4),CHEM 6C or 6CH. 
+CHEM 174, Chemical Principles of Marine Systems (4),BIMM 181 or BENG 181 or CSE 181; BIMM 182 or BENG 182 or CSE 182 or CHEM 182. 
+CHEM 184, Computational Molecular Biology (4),CHEM 126 or 126B or 130 or 133 and MATH 20C or 31BH. (May not be offered every year.) 
+CHEM 185, Quantum Chemistry Lab (4),MATH 20C and CHEM 126 or CHEM 126B or CHEM 130 or CHEM 133.
+CHEM 186, Molecular Simulations Lab (4),CHEM 6C or 6CH and CHEM 96 or EDS 31.
+CHEM 187, Foundations of Teaching and Learning Science (4),CHEM 6C or 6CH and CHEM 187 or EDS 122.
+CHEM 188, Capstone Seminar in Science Education (4),department stamp and/or consent of the instructor.
+CHEM 192, Senior Seminar in Chemistry and Biochemistry (1),none.
+CHEM 194, Special Topics in Chemistry (2),consent of instructor. 
+CHEM 195, Methods of Teaching Chemistry (4),"upper-division standing, 2.5 minimum GPA, consent of instructor and department. "
+CHEM 196, Reading and Research in Chemical Education (2 or 4),"Completion of ninety units with a GPA of 2.5, and a completed and approved Special Studies form (UC San Diego Application for Enrollment Special Studies Courses 197, 198, 199), and department stamp. "
+CHEM 197, Chemistry Internship (2 or 4),"department approval required and a completed and approved Special Studies form (UC San Diego Application for Enrollment Special Studies Courses 197, 198, 199). "
+CHEM 198, Directed Group Study (1–4),"upper-division standing, 2.5 minimum GPA, consent of instructor and department and the completion of the online CHEM 199 application.) "
+CHEM 199, Reading and Research (2 or 4),none.

@@ -16,13 +16,10 @@ def welcome(major):
     course_list = ["CSE", "ECE", "MATH", "PHYS"]
     data = {}
     
-    for course in course_list:
-       
+    for course in course_list: 
         c = course
         csv_name = f"./data/{c}_courses.csv"
         data[course] = pd.read_csv(csv_name).to_html()
-
-    #data = pd.read_csv('./data/CSE_courses.csv').to_html()
     return render_template('page.html', major=major, courses=course_list, data=data)
 
 if __name__ == "__main__":

@@ -52,3 +52,7 @@
     margin-top: 0px;
     float: left;
 }
+
+.hidden {
+    display: none;
+}

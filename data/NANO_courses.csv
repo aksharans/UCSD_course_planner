@@ -1,0 +1,35 @@
+Code,Name,Prerequisites
+NANO 1, NanoEngineering Seminar (1),none.
+NANO 4, Experience NanoEngineering (1) ,department approval required.   
+NANO 15, Engineering Computation Using Matlab (4),none.
+NANO 15R, Engineering Computation Using Matlab Online (4),none.
+NANO 100L, Physical Properties of Materials Lab (4),NANO 108.
+NANO 101, Introduction to NanoEngineering (4) ,"NANO 1 or NANO 4, CHEM 6B, PHYS 2B, MATH 20C, and CENG 15 or CENG 15R or NANO 15 or NANO 15R or MAE 8. Department approval required."
+NANO 102, Foundations in NanoEngineering: Chemical Principles (4),"CHEM 6C, MATH 20D, NANO 101, PHYS 2D, and NANO 106. Restricted to NanoEngineering majors or by department approval. "
+NANO 103, Foundations in NanoEngineering: Biochemical Principles (4),"BILD 1, CHEM 6C, NANO 101, and NANO 102. Department approval required."
+NANO 104, Foundations in NanoEngineering: Physical Principles (4),"MATH 20D, NANO 101. Department approval required."
+NANO 106, Crystallography of Materials (4),MATH 20F or MATH 18.
+NANO 107, Electronic Devices and Circuits for Nanoengineers (4)  ,"NANO 15, NANO 101, MATH 20B or MATH 20D, and PHYS 2B."
+NANO 108, Materials Science and Engineering (4)  ,upper-division standing.
+NANO 110, Molecular Modeling of Nanoscale Systems (4),"MATH 20F or MATH 18, NANO 102, NANO 104, and NANO 15 or CENG 15 or MAE 8. Restricted to NanoEngineering majors or by department approval."
+NANO 111, Characterization of NanoEngineering Systems (4),NANO 102.
+NANO 112, Synthesis and Fabrication of NanoEngineering Systems (4),"NANO 102, NANO 104, NANO 111."
+NANO 114, Probability and Statistical Methods for Engineers (4),MATH 20F or MATH 18 and NANO 15 or CENG 15 or MAE 8. 
+NANO 120A, NanoEngineering System Design I (4),NANO 110. 
+NANO 120B, NanoEngineering System Design II (4),NANO 120A. 
+NANO 134, Polymeric Materials (4)  ,none.
+NANO 141A, Engineering Mechanics I: Analysis of Equilibrium (4),none.
+NANO 141B, Engineering Mechanics II: Analysis of Motion (4),none.
+NANO 146, Nanoscale Optical Microscopy and Spectroscopy (4) ,NANO 103 and 104.
+NANO 148, Thermodynamics of Materials (4) ,upper-division standing.
+NANO 150, Mechanics of Nanomaterials (4) ,NANO 108.
+NANO 156, Nanomaterials (4) ,upper-division standing.
+NANO 158, Phase Transformations and Kinetics (4) ,NANO 108 and NANO 148.
+NANO 158L, Materials Processing Laboratory (4)  ,none.
+NANO 159, Electrochemistry: Fundamentals and Applications (4),"CHEM 6A or 6AH, CHEM 6B or 6BH, CHEM 6C or 6CH, CHEM 7L or 7LM."
+NANO 161, Material Selection in Engineering (4) ,NANO 108. Department approval required. Restricted to major code NA25. 
+NANO 164, Advanced Micro- and Nano-materials for Energy Storage and Conversion (4),"NANO 101, NANO 102, NANO 148."
+NANO 168," Electrical, Dielectric, and Magnetic Properties of Engineering Materials (4) ",NANO 102 and NANO 104.
+NANO 174, Mechanical Behavior of Materials (4),NANO 108.
+NANO 174L, Mechanical Behavior Laboratory (4),NANO 174.
+NANO 199, Independent Study for Undergraduates (4),upper division and department stamp.

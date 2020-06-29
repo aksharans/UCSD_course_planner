@@ -23,7 +23,7 @@ prereqs = soup.findAll("p", class_="course-descriptions")
 
 
 
-#Iterating through both lists simultaneously
+# Iterating through both lists simultaneously
 for res, pre in zip(results, prereqs):
 
     # Getting the course code and the course name

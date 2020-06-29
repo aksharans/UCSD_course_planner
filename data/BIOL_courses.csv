@@ -1,0 +1,130 @@
+Code,Name,Prerequisites
+BILD 1, The Cell (4),none.
+BILD 2, Multicellular Life (4),BILD 1. 
+BILD 3, Organismic and Evolutionary Biology (4),none.
+BILD 4, Introductory Biology Lab (2),none.
+BILD 7, The Beginning of Life (4),none.
+BILD 10, Fundamental Concepts of Modern Biology (4),none.
+BILD 12, Neurobiology and Behavior (4),none.
+BILD 18, Human Impact on the Environment (4),none.
+BILD 20, Human Genetics in Modern Society (4),none.
+BILD 22, Human Nutrition (4),none.
+BILD 26, Human Physiology (4),none.
+BILD 30, Biology of Plagues: Past and Present (4),none.
+BILD 36, AIDS Science and Society (4),none.
+BILD 38," Dementia, Science, and Society (4)",none.
+BILD 40, Introduction to Biomedical Research (2),none.
+BILD 42, Our Sustainable Future (4),none.
+BILD 44, Scientific Perspectives for a Changing World (4),none.
+BILD 46, Ecology of a Changing Planet (4),none.
+BILD 51, Quantitative Biology Project Lab (4),none.
+BILD 60," Exploring Issues of Diversity, Equity, and Inclusion in Relation to Human Biology (4)",none.
+BILD 70, Genomics Research Initiative Lab I (4),none.
+BILD 87, First-year Student Seminar Program (1),none.
+BILD 91, Biology First-year Students: Strategies for Success (1),department approval required.
+BILD 92, Professional Development Topics in the Biological Sciences (1),BILD 1 and BILD 2 or 3.
+BILD 95, Undergraduate Workshops (1),department approval required.
+BILD 96, Biology: Honors Seminar (2),none.
+BILD 98, Directed Group Study (1 to 4),none.
+BILD 99, Independent Research (2 or 4),none.
+BIBC 100, Structural Biochemistry (4),none.
+BIBC 102, Metabolic Biochemistry (4),department approval required.
+BIBC 103, Biochemical Techniques (4),department approval required.
+BIBC 120, Nutrition (4),department approval required.
+BIBC 140, Our Energy Future—Sustainable Energy Solutions (4),CHEM 40A or CHEM 140A or BENG 120 and CHEM 40B or CHEM 140B or BENG 120. Note: Students may not receive credit for both BIBC 100 and CHEM 114A. 
+BIBC 151, Chemistry of Biological Interactions (4),CHEM 40A or CHEM 140A or BENG 120 and CHEM 40B or CHEM 140B or BENG 120. Note: Students may not receive credit for both BIBC 102 and CHEM 114B.
+BIBC 194, Advanced Topics in Modern Biology: Biochemistry (2),BILD 1. Note: Students may not receive credit for BIBC 103 after taking CHEM 108. Attendance at the first lecture/lab is required. Nonattendance may result in the student’s being dropped from the course roster. 
+BICD 100, Genetics (4),BIBC 102 or CHEM 114B. 
+BICD 101, Eukaryotic Genetics Laboratory (4),BILD 1.
+BICD 102, Genetic Inquiry (4),BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B. 
+BICD 104, Genetic Neurobiology (4),BILD 1 and BILD 3.
+BICD 110, Cell Biology (4),BILD 1.
+BICD 112, Stem Cells and Regeneration (4),BICD 100 and MATH 11.
+BICD 120, Molecular Basis of Plant Development (4),BILD 2 and BICD 100.
+BICD 123, Plant Molecular Genetics and Biotechnology Laboratory (4),BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B.
+BICD 124, Plant Innate Immunity (4),BIMM 100.
+BICD 130," Embryos, Genes, and Development (4)",BILD 1.
+BICD 136, AIDS Science and Society (4),upper-division standing.
+BICD 140, Immunology (4),none.
+BICD 145, Laboratory in Molecular Medicine (4),upper-division standing; BICD 100 and BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B. 
+BICD 156, Population Genetics (4),"BILD 1, BILD 2 recommended. "
+BICD 194, Advanced Topics in Modern Biology: Cellular Development (2),"BICD 100, BIMM 100. BIBC 100 recommended. "
+BIEB 100, Biostatistics (4),BIMM 100. 
+BIEB 102, Introductory Ecology-Organisms and Habitat (4),BICD 100 and MATH 10A or MATH 20A.
+BIEB 121, Ecology Laboratory (4),BICD 110. 
+BIEB 123, Molecular Methods in Evolution and Ecology Lab (4),BILD 3 and MATH 10A or 20A and MATH 10B or 20B. Students may not receive credit for both BIEB 100 and SIO 187.
+BIEB 126, Plant Ecology (4),BILD 3 or equivalent. 
+BIEB 128, Insect Diversity (4),BIEB 100 or MATH 11 or SIO 187 and BILD 3.
+BIEB 130, Marine Conservation Biology (4),BILD 1 and BILD 3.
+BIEB 131, Marine Invertebrate Ecology Lab (4),BILD 3. 
+BIEB 134, Introduction to Biological Oceanography (4),BILD 3. 
+BIEB 135, Aquatic Ecology Lab (4),BILD 3.
+BIEB 140, Biodiversity (4),BILD 3 and BIEB 100 or MATH 11. 
+BIEB 143, Computer Modeling in Evolution and Ecology (4),BILD 3. Students will not receive credit for both BIEB 134 and SIO 134.
+BIEB 146, Genome Diversity and Dynamics (4),BILD 3.
+BIEB 150, Evolution (4),BILD 3. 
+BIEB 152, Evolution of Infectious Diseases (4),BIEB 100 or BIEB 150.
+BIEB 154, Evolutionary Inquiry (4),BILD 1 and BILD 3.
+BIEB 166, Animal Behavior and Communication (4),BILD 3 and BILD 1 or BIEB 143.
+BIEB 167, Animal Communication Lab (4),BILD 3.
+BIEB 174, Ecosystems and Global Change (4),BILD 1 and BILD 3.
+BIEB 176, Biology of Conservation and the Human Predicament (4),BILD 3 and Physics 1A or 2A. 
+BIEB 182, Biology of Global Change (4),BIEB 102 and BIEB 166. Attendance at the first lecture/lab is required. Nonattendance may result in the student’s being dropped from the course roster. Materials fees will apply.
+BIEB 194," Advanced Topics in Modern Biology: Ecology, Behavior, Evolution (2)",BILD 3.
+BIMM 100, Molecular Biology (4),BILD 3. 
+BIMM 101, Recombinant DNA Techniques (4),BIEB 102.
+BIMM 110, Molecular Basis of Human Disease (4),BIEB 102.
+BIMM 112, Regulation of Eukaryotic Gene Expressions (4),BILD 1 and BIBC 103 or BILD 4 or BILD 70 or BIMM 101 and BENG 120 or CHEM 40A or CHEM 40AH and BENG 120 or CHEM 40B or CHEM 40BH. 
+BIMM 114, Virology (4),BILD 1. 
+BIMM 116, Circadian Rhythms—Biological Clocks (4),"BICD 100 and BIMM 100 and BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B, upper-division standing."
+BIMM 116B, BioClock Studio (4),BIMM 100. 
+BIMM 118, Pharmacology (4),BIMM 100. 
+BIMM 120, Microbiology (4),BILD 1 or PSYC 2 or PSYC 106.
+BIMM 121, Microbiology Laboratory (4),department approval required. Students will be required to formally apply to participate via an online application form and selected students will work in small teams with intensive mentoring to execute projects.  
+BIMM 122, Microbial Genetics (4),BIPN 100 and BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B.
+BIMM 124, Medical Microbiology (4),BILD 3 and BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B and BIMM 100. 
+BIMM 130, Microbial Physiology (4),BILD 1. 
+BIMM 134, Biology of Cancer (4),BIMM 100.
+BIMM 140, Quantitative Principles in Biology (4),BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B. 
+BIMM 143, Bioinformatics Laboratory (4),BIBC 100 or BIBC 102 or CHEM 114A or CHEM 114B.
+BIMM 149, Computation for Biologists (4),BILD 1.
+BIMM 162, 3-D Cryo-Electron Microscopy of Macromolecules and Cells (4),BILD 1 and BILD 4 or BIEB 123 or BIMM 101.
+BIMM 170, Genomics Research Initiative Laboratory II (4),BILD 1 and BILD 2. 
+BIMM 172, Genome Science (4),CHEM 114A or BIBC 100; upper-division standing.
+BIMM 174," Genomics, Big Data, and Human Health (4)",BILD 70. 
+BIMM 181, Molecular Sequence Analysis (4),BICD 100 and BIMM 100.
+BIMM 182, Biological Databases (4),BILD 1 and BILD 4 or BIMM 101.
+BIMM 184, Computational Molecular Biology (4),"CSE 100 or MATH 176 and CSE 101 and BIMM 100 or CHEM 114C. Students may receive credit for one of the following: CSE 181, BIMM 181, or BENG 181."
+BIMM 185, Bioinformatics Laboratory (Advanced) (4),"CSE 100 or MATH 176. Students may receive credit for one of the following: CSE 182, BENG 182, or BIMM 182."
+BIMM 194, Advanced Topics in Modern Biology: Molecular Biology (2),"BIMM 181 or BENG 181 or CSE 181, BIMM 182 or BENG 182 or CSE 182 or CHEM 182. "
+BIPN 100, Human Physiology I (4),"two courses out of BIMM 181 or BENG 181 or CSE 181, BIMM 182 or BENG 182 or CSE 182, BENG 183, BIMM 184 or BENG 184 or CSE 184. Attendance at the first lecture/lab is required. Nonattendance may result in the student’s being dropped from the course roster."
+BIPN 102, Human Physiology II (4),BIMM 100.
+BIPN 105, Animal Physiology Lab (6),BILD 1 and BILD 2. 
+BIPN 106, Comparative Physiology (4),BIPN 100. 
+BIPN 108, Biology and Medicine of Exercise (4),"BILD 2, CHEM 6A-B-C. BILD 3 is recommended."
+BIPN 120, Endocrinology (4),BIPN 100 and BIBC 102 or CHEM 114B. 
+BIPN 134, Human Reproduction (4),BIPN 100.  
+BIPN 140, Cellular Neurobiology (4),BIPN 100. 
+BIPN 142, Systems Neurobiology (4),BILD 1 and BILD 2.
+BIPN 144, Developmental Neurobiology (4),BIPN 100 or BIPN 140. 
+BIPN 145, Neurobiology Laboratory (4),upper-division standing. 
+BIPN 146, Computational Cellular Neurobiology (4),BILD 2 and BILD 4 and MATH 11.
+BIPN 147, Computational Systems Neurobiology (4),BILD 2 and MATH 10A or MATH 20A and MATH 10B or MATH 20B and MATH 11.
+BIPN 148, Cellular Basis of Learning and Memory (4),BILD 2 and MATH 10A or MATH 20A and MATH 10B or MATH 20B and MATH 11.  
+BIPN 150, Diseases of the Nervous System (4),BIPN 100.
+BIPN 152, The Healthy and Diseased Brain (4),BICD 100 and BIBC 102 or CHEM 114B.
+BIPN 154, Neurobiology of Stress and Mental Disorders (4),BIPN 100. 
+BIPN 160, Neuroanatomy (4),BIPN 100.
+BIPN 162, Neural Data Science (4),BILD 1 and BILD 2.
+BIPN 189," Brain, Behavior, and Evolution (4)",MATH 11 and BIPN 100. Students will use their own laptop computers.
+BIPN 194, Advanced Topics in Modern Biology: Physiology and Neuroscience (2),BILD 2 or PSYC 102 or PSYC 106.
+BISP 170, Bioscholars Seminar: From Bench to Bedside and Beyond (2),BIPN 100 or BIPN 140.
+BISP 191, Biology Transfers: Strategies for Success (1),BILD 1 and BILD 2.
+BISP 192, Senior Seminar in Biology (1),upper-division standing.
+BISP 193, Biology Education Research (2 or 4),upper-division standing; department stamp and/or consent of instructor. 
+BISP 194, Advanced Topics in Modern Biology (2),department approval required. Enrollment is via department approval only. Students must complete a special studies application as well as a research plan. Paperwork for a BISP 193 must be submitted to SIS by all published deadlines as listed on the biology web page. 
+BISP 195, Undergraduate Instructional Apprenticeship in Biological Sciences (4),BICD 100; upper-division standing.
+BISP 196, Honors Thesis in Biological Sciences (4),students must have senior standing; 3.6 overall and major GPA or above. Research must be approved by Honors thesis faculty adviser. Enrollment in this course is for those students participating in the Honors Program in Biological Sciences and is via departmental approval only.
+BISP 197, Biology Internship Program (2 or 4),department approval required. Students must complete at least ninety units of credit and have a minimum GPA of 2.5. A completed and approved application/research plan/learning agreement is required for enrollment. 
+BISP 198, Directed Group Study (1 to 4),department approval required. Enrollment is via department approval only. Students must complete a special studies application. Paperwork for a BISP 198 must be submitted to SIS by Friday of the eighth week of the quarter preceding the quarter in which the 198 will be completed. 
+BISP 199, Individual Research for Undergraduates (2 or 4),department approval required. Students must complete at least ninety units of credit and have a minimum GPA of 2.5. 

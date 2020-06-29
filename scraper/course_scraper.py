@@ -17,8 +17,8 @@ results = soup.findAll("tr")
 
 list_wc = []
 
-# wanted_courses_list = ["CSE", "ECE", "PHYS", "MATH", "COGS", "CHEM", 
-# "ECON", "BENG", "ESYS", "HUM"]
+wanted_courses_list = ["CSE", "ECE", "PHYS", "MATH", "COGS", "CHEM", 
+ "ECON", "BENG", "ESYS", "HUM"]
 
 for item in results:
     code = item.next_element.next_element.text

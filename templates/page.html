@@ -23,11 +23,17 @@
 
 {% block body %}
 
+ 
+<div class="i w3-card-4">
+    <h4>{{ mcode }} Major Requirements</h4>
+    <img src="../static/images/{{mcode}}.png">
+</div>
+
 
 <div class="t">
 
     <div class="panel w3-panel w3-leftbar w3-pale-blue w3-border-blue">
-        <h4>Click on the subject to see <br>it's undergraduate catalog</h4>
+        <h4>Click on a subject to see <br>it's undergraduate catalog</h4>
     </div>
 {% for course in courses %}
     <div class="button"> 

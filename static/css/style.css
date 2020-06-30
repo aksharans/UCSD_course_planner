@@ -33,7 +33,7 @@
 
 /* for page.html */
 .t {
-    margin-top: 250px;
+    margin-top: 30px;
 }
 
 .table {
@@ -60,4 +60,29 @@
 .panel {
     margin-left: 20px;
     width: 600px
+}
+
+.panel h4{
+    color: forestgreen;
+}
+
+.i {
+    background-color: cadetblue;
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 300px;
+    width: 600px;
+    position: relative;
+    overflow: auto;
+}
+
+.i h4{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: springgreen;
+}
+
+.i img{
+    position: relative;
+    width: 100%;
 }

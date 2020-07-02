@@ -88,9 +88,22 @@
 }
 
 .data-table {
-    margin-left: 800px;
+    margin-left: 700px;
     float: right;
     position: absolute;
+}
+
+.data-table h2{
+    text-align: center;
+    background-color: lightblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#btPrint {
+    margin-top: -50px;;
+    margin-left: 20px;
+    position: absolute;
+
 }
 
 .t2 {
@@ -101,7 +114,13 @@
 
 .thead {
     display: table-header-group;
-    background-color: grey;
+    background-color: darkslateblue;
+    color: aliceblue;
+}
+
+.tbody {
+    display: table-row-group;
+    background-color: lightblue;
 }
 
 .tr {
@@ -112,7 +131,32 @@
     display: table-cell;
     border:1px solid black;
 	padding:1px;
-    width: 100px;
+    width: 150px;
+}
+
+.y1 {
+    margin-left: -60px;
+    margin-top: 55px;
+    position: absolute;
+    transform: rotate(-90deg);
+}
+.y2 {
+    margin-left: -60px;
+    margin-top: 230px;
+    position: absolute;
+    transform: rotate(-90deg);
+}
+.y3 {
+    margin-left: -60px;
+    margin-top: 400px;
+    position: absolute;
+    transform: rotate(-90deg);
+}
+.y4 {
+    margin-left: -60px;
+    margin-top: 570px;
+    position: absolute;
+    transform: rotate(-90deg);
 }
 
 

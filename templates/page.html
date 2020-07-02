@@ -25,22 +25,42 @@
 
 <div class="data-table">
 
-    <h2>Plan Your Schedule!</h2>
-    <div class="t2">
+    <h2 class="w3-card-4 w3-hover-cyan">Plan Your Schedule!</h2>
+    <p>
+        <input type="button" value="Create PDF" 
+        id="btPrint" onclick="createPDF()" />  
+    </p>
 
-        <div class="thead">
+    <div class="y1"><h3>Year 1</h3></div>
+    <div class="y2"><h3>Year 2</h3></div>
+    <div class="y3"><h3>Year 3</h3></div>
+    <div class="y4"><h3>Year 4</h3></div>
+
+      
+    <div class="t2" id="t2">
+
+        {% for i in range(4) %}
+        <div class="thead" id="thead">
             <div class="tr">
                 <div class="td">Fall</div>
                 <div class="td">Winter</div>
                 <div class="td">Spring</div>
                 <div class="td">Summer</div>
-                <div class="td"></div>
+            </div>    
+        </div>
+        {% for i in range(5) %}
+        <div class="tbody">
+            <div class="tr">
+                <div class="td" contenteditable="true"></div> 
+                <div class="td" contenteditable="true"></div> 
+                <div class="td" contenteditable="true"></div> 
+                <div class="td" contenteditable="true"></div> 
             </div>
         </div>
-
+        {% endfor %}
+        {% endfor %}
+        
     </div>
-
-
 
 </div>
 

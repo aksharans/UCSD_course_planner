@@ -14,13 +14,12 @@
 }
 
 .majors-container {
-    background: rgb(140, 245, 205);
+    background: rgb(140, 245, 205, 0.5); 
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     flex-flow: wrap;
     padding: 10px;
-
 
 }
 
@@ -29,6 +28,30 @@
     color: darkmagenta;
     margin: 5px;
     border: 2px solid darkgoldenrod;
+}
+
+.gened {
+    background-color: rgba(169, 144, 238, 0.5);
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.btn {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 50%;
+    padding: 10px 10px;
+    font-family: Georgia;
+    background-color: rgb(255, 255, 255, 0.9);
+    border: 2px solid #4e4caf;
+}
+
+.btn:hover {
+    background-color: #4e4caf; 
+    color: white;
+    transition-duration: 0.5s;
+
 }
 
 /* for page.html */
@@ -176,3 +199,23 @@
 ::-webkit-scrollbar-thumb:hover {
     background-color: lightseagreen;
 }
+
+/* gradient */
+html {
+	background: linear-gradient(90deg, #ee7752, #46237a, #e73c7e, #fce055, #23a6d5, #23d5ab, #256eff);
+	background-size: 400% 400%;
+	animation: gradient 50s linear infinite alternate-reverse;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+

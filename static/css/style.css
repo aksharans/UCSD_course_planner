@@ -223,6 +223,13 @@ html {
 .univ-title {
     text-align: center;
 }
+
+.univ-title .gened-home {
+    position: absolute;
+    margin-top: -75px;
+    margin-left: 15px;
+}
+
 .univ-reqs {
     width: 97%;
     height: 200px;

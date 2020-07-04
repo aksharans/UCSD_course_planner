@@ -219,3 +219,72 @@ html {
 	}
 }
 
+/* for gened.html */
+.univ-title {
+    text-align: center;
+}
+.univ-reqs {
+    width: 97%;
+    height: 200px;
+    margin-left: 20px;
+    background-color: rgb(255, 215, 0, 0.7);
+    border: 2px solid black;
+}
+
+.colleges {
+    position: absolute;
+    border: 2px solid black;
+    width: 40%;
+    height: 430px;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 10px;
+    overflow: auto;
+}
+
+.college-btn {
+    width: 130px;
+    height: 130px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+#warren {
+    background-size: cover;
+    background-image: url('../images/warren.png');
+}
+#sixth {
+    background-size: cover;
+    background-image: url('../images/sixth.png');
+}
+#muir {
+    background-size: cover;
+    background-image: url('../images/muir.png');
+}
+#erc {
+    background-size: cover;
+    background-image: url('../images/erc.png');
+}
+#marshall {
+    background-size: cover;
+    background-image: url('../images/marshall.png');
+}
+#revelle {
+    background-size: cover;
+    background-image: url('../images/revelle.png');
+}
+#seventh {
+    background-size: cover;
+    background-image: url('../images/seventh.png');
+}
+
+.display {
+    position: absolute;
+    border: 2px solid black;
+    text-align: center;
+    width: 750px;
+    height: 430px;
+    margin-top: 10px;
+    margin-left: 600px;
+}

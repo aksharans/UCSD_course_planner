@@ -1,0 +1,32 @@
+{% extends 'template.html' %}
+
+{% block head %}
+    <script src="../static/js/function.js"></script>
+    <title>Gened</title>
+{% endblock %}
+
+{% block body %}
+    <div class="univ-title">
+        <h1>University & College GE Requirements</h1>
+    </div>  
+
+    <div class="univ-reqs w3-container w3-margin-right w3-card-4">
+        <h1>University Reqs</h1>
+    </div>
+
+    <div class="colleges w3-card-4">
+        <button class="college-btn w3-hover-red" id="warren" onclick="warren()"></button>
+        <button class="college-btn w3-hover-cyan" id="sixth" onclick="sixth()"></button>
+        <button class="college-btn w3-hover-green" id="muir" onclick="muir()"></button>
+        <button class="college-btn w3-hover-pink" id="erc" onclick="erc()"></button>
+        <button class="college-btn w3-hover-deep-orange" id="marshall" onclick="marshall()"></button>
+        <button class="college-btn w3-hover-indigo" id="revelle" onclick="revelle()"></button>
+        <button class="college-btn w3-hover-amber" id="seventh" onclick="seventh()"></button>
+    </div>
+
+    <div class="display w3-card-4" id="display">
+        <h1>No College Selected</h1>
+    </div>
+
+
+{% endblock %}

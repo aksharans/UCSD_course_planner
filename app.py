@@ -32,5 +32,13 @@ def welcome(major):
 
     return render_template('page.html', major=major, courses=course_list, data=data, mcode=major_code)
 
+@app.route('/gened')
+def gened():
+    return render_template('gened.html')
+
+@app.route('/about')
+def about():
+    return render_template('about.html')
+
 if __name__ == "__main__":
     app.run(debug=True)

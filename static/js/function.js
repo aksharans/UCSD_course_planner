@@ -15,3 +15,60 @@ function toggle(course) {
     win.document.close(); 
     //win.print();
   }
+
+function warren(){
+    var x = document.getElementById('display');
+    const html = `
+    <h1>Earl Warren College</h1>
+    `;
+    x.innerHTML = html;
+}
+  
+function sixth(){
+    var x = document.getElementById('display');
+    const html = `
+    <h1>Sixth College</h1>
+    `;
+    x.innerHTML = html;
+}
+
+function muir(){
+    var x = document.getElementById('display');
+    const html = `
+    <h1>John Muir College</h1>
+    `;
+    x.innerHTML = html;
+}
+
+function erc(){
+  var x = document.getElementById('display');
+  const html = `
+  <h1>Eleanor Roosevelt College</h1>
+  `;
+  x.innerHTML = html;
+}
+
+function marshall(){
+  var x = document.getElementById('display');
+  const html = `
+  <h1>Thurgood Marshall College</h1>
+  `;
+  x.innerHTML = html;
+}
+
+function revelle(){
+  var x = document.getElementById('display');
+  const html = `
+  <h1>Revelle College</h1>
+  `;
+  x.innerHTML = html;
+}
+
+function seventh(){
+  var x = document.getElementById('display');
+  const html = `
+  <h1>Seventh College</h1>
+  `;
+  x.innerHTML = html;
+}
+

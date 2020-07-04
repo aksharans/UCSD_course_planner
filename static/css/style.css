@@ -229,6 +229,27 @@ html {
     margin-left: 20px;
     background-color: rgb(255, 215, 0, 0.7);
     border: 2px solid black;
+    color: rgb(21, 54, 121);
+    font-family: 'Cambria';
+}
+
+.univ-reqs-left{
+    margin-top: -10px;
+    margin-left: 50px;
+    float: left;
+    text-align: center;
+}
+.univ-reqs-center{
+    margin-top: -10px;
+    margin-left: 200px;
+    float: left;
+    text-align: center;
+}
+.univ-reqs-right{
+    margin-top: -10px;
+    margin-left: 100px;
+    float: left;
+    text-align: center;
 }
 
 .colleges {
@@ -290,4 +311,5 @@ html {
     overflow: auto;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
+    padding: 10px;
 }

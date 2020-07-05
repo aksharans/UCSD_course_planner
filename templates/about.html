@@ -5,5 +5,53 @@
 {% endblock %}
 
 {% block body %}
-    <h1>About</h1>
+
+
+    <div class="about-title">
+        <h1 style="text-align: center;">About</h1>
+        <h1 class="about-home">         
+            <a href="/">Home</a>
+        </h1>
+    </div>  
+
+    <div class="note w3-container w3-pale-blue w3-opacity">
+
+        <h1>NOTE</h1>
+
+        <h5>This website was created in an educational and informational manner.</h5>
+        <h5>All data and images are from <a href="https://ucsd.edu/" target="_blank">UC San Diego (UCSD)</a></h5>
+
+    </div>
+
+    <div class="credits w3-container w3-pale-green w3-opacity">
+        <h1>CREDITS</h1>
+        
+        <div class="credits-text">   
+            <h5>UCSD main website: <a href="https://ucsd.edu/" target="_blank">
+                https://ucsd.edu/</a></h5>
+            <h5>UCSD Catalog: <a href="https://ucsd.edu/catalog/front/courses.html" 
+                target="_blank">https://ucsd.edu/catalog/front/courses.html</a></h5>
+            <h5>Jacobs School of Engineering (Departments & Majors): <a href="http://jacobsschool.ucsd.edu/academic/departments.sfe" 
+                target="_blank">http://jacobsschool.ucsd.edu/academic/departments.sfe</a></h5>
+            <h5>UCSD Colleges (Degree Requirements): <a href="https://admissions.ucsd.edu/why/colleges/" 
+                target="_blank">https://admissions.ucsd.edu/why/colleges/</a></h5>
+        </div>
+
+    </div>
+
+    <div class="about-info w3-container w3-pale-yellow w3-opacity">
+        <h1>INFO</h1>
+
+        <h5>This WebApp was created using Flask. The data was scraped using BeautifulSoup.
+            The HTML was written using the Jinja2 templates. The CSS was written using the
+            W3 css framework. Hosted on Heroku.
+        </h5>
+
+    </div>
+
+    <footer>
+        <p>GitHub: </p>
+    </footer>
+
+
 {% endblock %}

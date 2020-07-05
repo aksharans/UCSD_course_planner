@@ -320,3 +320,37 @@ html {
     color: white;
     padding: 10px;
 }
+
+/* for about.html */
+.about-title {
+    color: aliceblue;
+}
+
+.about-title .about-home {
+    position: absolute;
+    margin-top: -75px;
+    margin-left: 15px;
+}
+
+.note h1{
+    font-family: 'Courier New';
+}
+.note h5{
+    font-family: 'Courier New';
+}
+
+.credits h1{
+    font-family: 'Courier New';
+}
+
+.credits-text h5{
+    font-family: 'Courier New';
+}
+
+.about-info h1{
+    font-family: 'Courier New';
+}
+
+.about-info h5{
+    font-family: 'Courier New';
+}

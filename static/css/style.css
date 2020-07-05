@@ -51,7 +51,6 @@
     background-color: #4e4caf; 
     color: white;
     transition-duration: 0.5s;
-
 }
 
 /* for page.html */
@@ -353,4 +352,13 @@ html {
 
 .about-info h5{
     font-family: 'Courier New';
+}
+
+.about-footer {
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    width: 50%;
+    padding: 5px;
+    width: fit-content;
 }

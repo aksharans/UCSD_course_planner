@@ -1,3 +1,4 @@
-# UCSD_course_planner
+# UCSD Course Planner
+# for Jacobs School of Engineering
 
 https://ucsdcourseplanner.herokuapp.com/

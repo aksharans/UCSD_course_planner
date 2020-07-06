@@ -27,6 +27,3 @@ The *Procfile* specifies the commands on startup.
 The dependencies are found in the *requirements.txt* file. 
 
 
-## WebApp Link
-https://ucsdcourseplanner.herokuapp.com/
-

@@ -13,10 +13,20 @@ name, and pre-requsites was then loaded into csv files within
 the *data* folder.
 
 ### Flask
+This web app was built using the Flask WSGI framework, and the 
+implementation is in the *app.py* file.
 
-
-### HTML/CSS/JS
-
+### Templates/Static
+The HTML files for the web app pages are found in the *templates*
+folder. The *static* folder contains the CSS, JS, as well as
+the images that were used in the site.
 
 ### Heroku
+This web app is hosted on Heroku, using the Heroku CLI.
+The *Procfile* specifies the commands on startup.
+The dependencies are found in the *requirements.txt* file. 
+
+
+## WebApp Link
+https://ucsdcourseplanner.herokuapp.com/
 

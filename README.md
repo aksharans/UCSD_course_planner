@@ -13,7 +13,7 @@ name, and pre-requsites was then loaded into csv files within
 the *data* folder.
 
 ### Flask
-This web app was built using the Flask WSGI framework, and the 
+This web app was built using the Flask framework, and the 
 implementation is in the *app.py* file.
 
 ### Templates/Static

@@ -1,4 +1,7 @@
 # UCSD Course Planner
+
+Demo: https://youtu.be/mAJfZiACPZY
+
 A web app designed to help prospective and current Jacobs School of 
 Engineering students to plan their schedule and be able to see the 
 list of courses for relevant subjects, their pre-requisites, and 
